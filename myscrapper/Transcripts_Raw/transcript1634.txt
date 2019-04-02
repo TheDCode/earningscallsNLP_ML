@@ -1,0 +1,196 @@
+Image source: The Motley Fool.
+RBB Bancorp (NASDAQ:RBB) Q4 2018 Earnings Conference Call Jan. 29, 2019, 2:00 p.m. ET
+Operator
+Good day, ladies and gentlemen, and welcome to your RBB Bancorp Quarter Four 2018 Earnings Call. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session and instructions will be given at that time.
+(Operator Instructions) As a reminder, today's conference is being recorded.
+I would now like to turn the call over to Larry Clark with Investor Relations. Sir, you may begin.
+Larry Clark -- Investor Relations
+Thank you, Sidney. Good morning everyone and thank you for joining us to discuss RBB Bancorp's financial results for the fourth quarter and year ended December 31st, 2018.
+With me today from management are Chairman and President, CEO, Alan Thian; EVP and Chief Financial Officer, David Morris; EVP and Chief Credit Officer, Jeffrey Yeh; EVP and Chief Branch Administrator, Wilson Mach; EVP and Chief Risk Officer, Vincent Liu; and EVP and Director of Mortgage Lending, Larsen Lee. Management will provide a sum -- brief summary of the results and then we'll open up the call to questions.
+During the course of this conference call, statements may be made by management that may include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements are based upon specific assumptions that may or may not prove correct.
+Forward-looking statements are also subject to known and unknown risks and uncertainties and other factors relating to RBB Bancorp's operations and business environment, all of which are difficult to predict and many of which are beyond the control of the Company.
+For a detailed discussion of these risks and uncertainties, please refer to the required documents the Company has filed with the SEC. If any of these uncertainties materialize or any of these assumptions prove incorrect, RBB Bancorp's results could differ materially from its expectations as set forth in these statements. The Company assumes no obligation to update such forward-looking statements unless required by law.
+At this time, I'd like to turn the call over to Alan Thian. Alan?
+Alan Thian -- Chairman, President and Chief Executive Officer
+Thank you, Larry. Good morning everyone and thank you for joining us today. I'll start by discussing our full year accomplishments at a high level and then David will provide more details on our fourth quarter financial results.
+We are very pleased with our financial performance for our first full year as a public company, as we generated the highest level of net income in the Company's history. We also continue to execute well on our strategic goals by growing our franchise organically within our existing markets and by entering the attractive New York City markets through the acquisition of First American International Corp, which added over $800 million in assets, eight branches and two loan offices.
+On a stand-alone basis, RBB delivered total loan growth of over $470 million for the year, up 34%. This was driven by strong production in our residential mortgage business as well as our commercial real estates and construction lending. We also added nearly 307 -- excuse me nearly $730 million of loans, with the FAIC acquisition. Our total loan growth helped drive a 30% increase in our net interest income for the year, despite higher deposit costs and a flattening yield curve.
+During the year, we opened one new branch and relocate another in Southern California and relocated our corporate headquarters in Downtown Los Angeles. We also invested in business development personnel as well as increased our operational staff in order to support our growth. Even with all of this new investment, we were able to keep our efficiency ratio below 50% for the year.
+Our asset quality remains pristine. We have less than $700,000 of net charge-offs for the year, against an average loan balance of just under $1.5 billion. Our profitability metric remains strong. For the year, we generated an annualized return on average asset of 1.8% and annualized return on average tangible common equity of 13.8%.
+And finally, our capital ratios are solid. We ended the year with total capital-to-risk-weighted assets at 21.6% and tangible common equity-to-tangible assets at 10.6%. In 2019, we plan to continue expanding our franchise through a combination of organic growth and de novo branch openings.
+We are investing in the business to diversify our revenue mix and provide additional opportunities for increased profitability. Our loan pipeline remains healthy, but we anticipate selling more of our loans in the coming quarters, which we believe will lead to higher gain-on-sale income. This should also help us manage our liquidity as we strive to match the growth in our held for investment portfolio with our 30% (ph) growth.
+We also are very pleased with acquisition of First American. We are bringing together two banks with a shared vision, mission and culture. The teams at both RBB and First American continue to execute the integration plan smoothly ensuring that we provide a seamless transition to all employees and customers.
+The system conversions was also recently completed to stop any major issues. We are now in position to enhance First American's business banking capabilities. We are introducing new products and services that will help it build upon the well-established brand and strong customer relationships, while also enhancing its deposit gathering and lending efforts.
+Again, we want to welcome our new customers, shareholders and employees into the RBB Bancorp family. We are pleased to have FAIC directors Raymond Yu and Alfonso Lau join our Board. We are excited about the opportunities to expand into the attractive New York markets and we believe that the combined company will be well positioned to continue growing the RBB franchise and enhancing the value for our shareholders in the year ahead.
+I will now hand it over to David for more details on our fourth quarter results. David?
+David Morris -- Executive Vice President and Chief Financial Officer
+Thank you, Alan. We delivered another strong performance in the fourth quarter, where our net income of $9.9 million resulted in an annualized return on average assets of 1.41% and an annualized return on average tangible common equity of 12.8%.
+Organic loan growth in the quarter was solid at $89 million. Approximately $44 million of this organic growth is in loans held for investments, while the remaining added to our balance of residential mortgage loans held for sale.
+RBB contributed $32 million of the portfolio loan growth and First American $12 million. The increase was primarily driven by growth in residential and commercial real estate.
+Mortgage loans held for sale were $435 million at the end of the year, an increase of $56 million from the close of the third quarter. While loan production increased in the quarter, we sold fewer loans to our usual group of buyers as they have less capacity at year-end for mortgage purchases. We also found this secondary market to be temporarily less attractive in the fourth quarter, primarily driven by the overall volatility in the equity and fixed income markets, particularly in October and November.
+However, we did sell $125 million of mortgages in the quarter, including a $140 million sold to Fannie Mae. We plan to significantly reduce the balance of loans held for sale over the next two quarters. As a result, our total loan balances will likely decline over that period as the anticipated decline in loans held for sale will more than offset whatever growth we achieve in our held for investment portfolio.
+Now turning to deposits, deposits increased by $579 million in the quarter, all being attributable to the deposit that were acquired at First American at the date of acquisition, partially offset by a moderate run-off there in November and December. Deposits were flat in RBB during the quarter. We experienced a favorable shift in mix of deposits as a result of the First American transaction.
+Our non-interest bearing deposits now represent 20% of our total deposit base, up from 18% as the end of the third quarter. As First American holds a higher mix of DDAs than RBB, savings now in money market accounts represent 27% of total deposits, and time deposits make up the remaining 53% including 5% of brokered CDs.
+The overall shift in our average deposit mix, including a higher percent of time deposits, coupled with the ongoing level of deposit competition and the Fed interest rate increases resulted in a 16 basis point increase in the cost of our average interest-bearing deposits, when compared with the prior quarter.
+We also increased our FHLB advances in order to manage through the late-quarter volatility in our deposits, increase in loan balances from First American, and the increase in our loans held for sale. We anticipate reducing these advances as we sell down our available for sale mortgage portfolio and we gather more deposits.
+Moving on to net interest margin, on a reported basis the NIM decreased by 23 basis points from the previous quarter to 3.88%. Excluding purchase discount accretion, our core NIM declined 32 basis points during the quarter. The contraction was due to several factors; first the addition of First American portfolio to our balance sheet, adversely impacting NIM by 9 basis points; second, the approximately $100 million increase in the average balance of loans held for sale, which generally carries a lower average yield and has largely get funded by higher costs advances from the FHLB negatively impacted NIM by 14 basis points.
+Excluding these two impacts, our core NIM declined by 9 basis points drives -- driven by higher cost -- funding costs and particularly offset by higher loan -- sorry, and partially offset by higher loan yields, as we are experiencing higher yields on new loans and seeing the benefit of repricing in our existing loan portfolio.
+Another point that I would like to make is that if we carry a more normalized balance of available for sale loans which have -- which would have been closer to $200 million, our NIM for the quarter would have been 4.01% instead of 3.88%. Looking ahead, we anticipate slightly further NIM contraction. We will continue to see modest upward pressure on deposit costs as a number of our lower cost CDs will continue to roll over at incrementally higher rates, partially offset by higher loan yields. But our NIM will benefit from a reduced balance of loans held for sale going forward.
+Turning to non-interest income; it increased by $3.4 million in the quarter due to higher mortgage loans sales relative to the third quarter, higher servicing fees and to higher service charges and fees primarily from First American, as they have a large servicing portfolio and a large number of safe deposit boxes.
+Our total non-interest expense was $15.5 million, up from $8.7 million for the third quarter of 2018. The increase was primarily due to a $3.8 million increase in salaries and employees benefit expense, a $900,000 increase in occupancy and equipment expenses, and $738,000 increase in merger expenses, all mainly due to the First American acquisition. We expect our expense run rate to be between $14.3 million to $14.9 million for the next couple of quarters. The efficiency ratio for the fourth quarter was 49.9%, up from 41.8% from the prior quarter. Going forward, we expect our efficiency ratio to be in the 41% to 45% range.
+Shifting to income tax expense, our effective tax rate for the quarter was 27.5%. This includes the impact of a deduction for stock option expense in the amount of $401,000. Our effective tax rate was higher than last quarter's 19.7% rate due to the number of options exercised being significantly less than in the third quarter. We anticipate an effective tax rate of between 27% and 29% for 2019.
+Our asset quality remains solid. Our non-performing assets were 21 basis points of total assets at December 31st, an improvement from 32 basis points of total assets at September 30th. Our credit losses remain low. During the quarter, we recorded an additional charge-off of $526,000 that was added to one SBA loan we initially charged-off in third quarter.
+Our provision for loan loss was $1.9 million for the fourth quarter, primarily reflecting growth in total loans. This brought our allowance for loan losses to 82 basis points of total loans held for investment, down 35 basis points from the end of the prior quarter. We did see an increase in loans past due during the quarter, but do not believe it is reflective of any larger asset quality deterioration. We continue to believe that we have a very strong credit quality culture and we'll remain vigilant on asset quality.
+I will sum things up by noting that as we enter 2019, we are focused on the continued innovation at First American and our balance sheet management strategy, which includes reducing residential mortgages held for sale, shift in the growth in our loan portfolio more toward commercial and commercial real estate loans, and more effectively managing our deposits costs to alleviate pressure on our margin.
+We are optimistic about our ability to continue to gain market share and attract new customers in Southern California, as well as new opportunities to strengthen our presence in New York. We think this is well positioned -- this will well position us for improved profitability in 2019.
+At this time, we'll -- we are happy to answer your questions. Operator, please open the call.
+Operator
+Thank you so much. (Operator Instructions) And our first question comes from Aaron Deer with Sandler O'Neill. Your line is now open.
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+Speaker C-David
+Alan Thian -- Chairman, President and Chief Executive Officer
+Hi, Aaron.
+David Morris -- Executive Vice President and Chief Financial Officer
+Hey Aaron.
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+I guess I'd like to start on the deposits. Looking at the combined balances of post integration with First American, deposit balances came in a good deal below what I -- where I would have anticipated. Just curious if you can maybe give some color. How much of anticipated or purposeful run-off was there in the quarter and was there any expected outflows -- I'm sorry, any unexpected outflows in the quarter?
+Alan Thian -- Chairman, President and Chief Executive Officer
+Well, I could talk a little bit about the First American side. We -- we're planning for some run-off because of -- it normally happens in an acquisition. We had about $16 million worth of wholesale deposits that went-off. We also had there DDAs, some of their DDAs that were in-house DDAs kind of constantly sticking with ours and so that's all accounted for elsewhere. But they also had a run-off of about 10% in CDs, which given where they are with pricing it's probably not that significant. I mean they are not the highest in the market, they have people at 270 and 275 and their rates were lower than that. So that's where we are with that. Now on the LA side, Vincent, do you have any inputs? End of the year deposits not growing as much as we expected.
+I-Ming (Vincent) Liu -- Executive Vice President and Chief Risk Officer
+Well, typically at year end the -- obviously its loan growth and I'll say that merchant (ph) customers are paying off their obligation. But looking forward, we will look at our DDAs and expand our land banking program and increase in that area.
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+Okay. And then, I'm curious, with the guidance for higher projected loan sales early in the year, I guess it's coming out of the held for sale bucket, what -- it sounds like you're kind of expecting overall flattish loan balances for the first couple of quarters. What, as you kind of lay off that strategy, what does that mean for expectations for full year loan growth?
+Alan Thian -- Chairman, President and Chief Executive Officer
+Full year loan growth is right now is projected to be -- the total loan growth, would only be between -- in the low single digits; 5%, 4% something of that nature.
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+Okay. And then have you tested the waters at all in the secondary market this quarter to see if in fact the pricing has improved relative to what you're seeing in the fourth quarter and if not would -- does that mean you might reconsider your strategy of higher loan sales here in the first part of the year?
+Alan Thian -- Chairman, President and Chief Executive Officer
+I'll start off and I'll let Larsen finish. We have seen a great improvement in pricing, OK. Whereas before we would have sold for a loss, we're saying that we're selling in fact for a gain, not as high as they were when we were -- when we sell to individual banks in the (inaudible). Larsen, would you like to add?
+Larsen Lee -- Executive Vice President and Director of Mortgage
+Yes, I guess after the merger, our target would be dealing with a private investment bank greater than a Community bank here in Los Angeles. The price will be lower, but we do expect a profit. Now the price has improved tremendously. We have many offers all on the table. We are determining which is the best bank to deal with. We like to do service retain and we're in a negotiation with a couple banks to try to retain all the service that we sell -- sold loans.
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+Okay and then if I could just ask you to repeat, David, because the audio is pretty bad, you identified two components to the margin that were -- did skew the results in the quarter. I heard one of them as being the holding of -- the higher level of held for sale balances. What was the other and can you repeat what the basis point impact was of those two items?
+David Morris -- Executive Vice President and Chief Financial Officer
+It's actually three items. One is adding First American.
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+Yes.
+David Morris -- Executive Vice President and Chief Financial Officer
+So, adding First American is around 9 basis points decrease. There other is the 14 basis point increase for the available for sale mortgage loans being funded by FHLB balances. And then, our NIM decreased by 9 basis points also. Our core base is at 34 basis points -- 32 basis points difference is made up of those excess items.
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+Understood. Thank you, I'll step back.
+Operator
+Thank you so much. Our next question comes from Jacque Bohlen with KBW. Your line is now open.
+Jacquelynne Bohlen -- Keefe, Bruyette & Woods, Inc. -- Analyst
+Hi, good morning everyone.
+Alan Thian -- Chairman, President and Chief Executive Officer
+Hi Jacque.
+David Morris -- Executive Vice President and Chief Financial Officer
+Good morning Jacque.
+Jacquelynne Bohlen -- Keefe, Bruyette & Woods, Inc. -- Analyst
+Based on the rebound that you've had in pricing with the secondary market, and the offers that you're currently entertaining, it sounds like there could be a significant decline in first quarter and that might bring you back down to that $200 million level. Is that a fair assumption or might some of that still flow into 2Q?
+Alan Thian -- Chairman, President and Chief Executive Officer
+I think some of that can flow into Q2, but our goal is to try to get to the $200 million of this quarter. Again, that may not be average balances, so you may not see the effect in the NIM until the second quarter, because of average balances.
+Jacquelynne Bohlen -- Keefe, Bruyette & Woods, Inc. -- Analyst
+Okay.
+Alan Thian -- Chairman, President and Chief Executive Officer
+We already closed some. And we are in -- I would say we are in negotiation. We have approximately $250 million that could be sold before end of this quarter, depending upon service retailer service release, we are determining that.
+Jacquelynne Bohlen -- Keefe, Bruyette & Woods, Inc. -- Analyst
+Okay. So in light of those expectations, how should we think about gain on sale income in both the first quarter and then for the balance of the year?
+Alan Thian -- Chairman, President and Chief Executive Officer
+Let's take it into two pieces. SBA is going to be much lower because the premiums on SBA are not there. Okay. So that's number one. So SBA is going to be probably where it is today, about $500 million something like that at gains per quarter. But, on the other side, I would say that we're going to make -- we are being cautiously optimistic here. So when I've looked at these things, I've -- trying to find the exact number, so that I could just tell you...
+David Morris -- Executive Vice President and Chief Financial Officer
+We have $427 million held for sale.
+Alan Thian -- Chairman, President and Chief Executive Officer
+I know. But I must confirm a specific number here. We're looking at something like about what we hit in the last quarter, I guess, ongoing, OK. Because we sold a 100 -- we sold a $132 million -- sorry that's wrong, $124 billion in the last quarter. So we would see something about the same going forward.
+Jacquelynne Bohlen -- Keefe, Bruyette & Woods, Inc. -- Analyst
+So that's -- so basically 4Q's income would be a normalized level and then 1Q's income assuming that the additional $250 million, give or take is sold, that would be an added benefit on top of that $2 million?
+Alan Thian -- Chairman, President and Chief Executive Officer
+No, I think it will be about $2 million every quarter, Okay.
+Jacquelynne Bohlen -- Keefe, Bruyette & Woods, Inc. -- Analyst
+I guess I'm just trying to reconcile the impact of the larger sale in 2Q through 4Q?
+Alan Thian -- Chairman, President and Chief Executive Officer
+Look, we don't obviously sell into the -- we can't sell a large portion of this to Fannie Mae and Fannie Mae is, even though they are TARP, even though there are gains in the -- there is a significant gain there, it's still not as large as if we could sell it to the individual market, OK.
+Jacquelynne Bohlen -- Keefe, Bruyette & Woods, Inc. -- Analyst
+Okay.
+Alan Thian -- Chairman, President and Chief Executive Officer
+That's partially the (inaudible)
+Jacquelynne Bohlen -- Keefe, Bruyette & Woods, Inc. -- Analyst
+Okay, alright, so if we're looking just from a modeling perspective, if we're thinking about around $2 million a quarter, that's a conservative approach to take?
+Alan Thian -- Chairman, President and Chief Executive Officer
+Okay. Yes.
+Jacquelynne Bohlen -- Keefe, Bruyette & Woods, Inc. -- Analyst
+Okay. thank you.
+Operator
+Thank you. Our next question comes from Tyler Stafford with Stephens Inc. Your line is now open.
+Tyler Stafford -- Stephens Inc -- Analyst
+Hi, good afternoon, everyone.
+Alan Thian -- Chairman, President and Chief Executive Officer
+Hi Tyler.
+Tyler Stafford -- Stephens Inc -- Analyst
+Hey, I just wanted to maybe take a portion of the -- both the earlier questions and just try to triangulate back to the efficiency outlook that you gave. So if the margins are going to be under pressure -- continued under pressure from here, you gave us the expense run rate I think of the $14.3 million to $14.7 million and then the balance sheet and the NII impacts in the fees. I'm struggling to get to that 41% to 45% efficiency ratio relative to I guess the 46% efficiency ratio you had this quarter. Is there something else that I'm missing? Is there additional cost savings that are going to drive that expense level lower? How do you get to that 41% to 45% efficiency ratio?
+Alan Thian -- Chairman, President and Chief Executive Officer
+Did you take the merger expense out, Tyler?
+Tyler Stafford -- Stephens Inc -- Analyst
+I did, yes.
+Alan Thian -- Chairman, President and Chief Executive Officer
+Okay, that's $2 million of -- and it's certainly a -- it's conservative. It is $2 million on gain on sales. So that is a conservative number. So we can -- we also, our provision for loan losses, Tyler, would be a lot less lower than what we're putting in, because it's reliable. Even though these are available for sale loans that we're going to be selling, our production is not going to be as huge over the first quarter and second quarter.
+Tyler Stafford -- Stephens Inc -- Analyst
+Yes, I guess I was thinking about more from the efficiency ratio though in which the provision wouldn't impact. Just remind -- how about this, what about that the remaining cost savings. Can you walk us through the timeline of the First American cost savings you'd expect to realize?
+Alan Thian -- Chairman, President and Chief Executive Officer
+Well, most of the cost savings have gone through already.
+Tyler Stafford -- Stephens Inc -- Analyst
+Okay.
+Alan Thian -- Chairman, President and Chief Executive Officer
+Okay, so we got almost all of them. We only have really -- we have the mortgage conversion left to do, OK. And that's -- right now the expense on that is $40,000 a month and we think we can knock out half of that once we do the conversion, OK. Then we have in there -- and then we have, I don't think there is much more, we have some items in compliance that we want to finish and so forth, but I think it's all relatively complete.
+Tyler Stafford -- Stephens Inc -- Analyst
+Okay.
+Alan Thian -- Chairman, President and Chief Executive Officer
+So, this is our estimate for the full year range, so when it will decrease, we will get more efficient as we go forward.
+Tyler Stafford -- Stephens Inc -- Analyst
+Okay. Thanks, David.
+Operator
+Thank you. (Operator Instructions) We have a follow-up question from Aaron Deer. Your line is now open.
+Alan Thian -- Chairman, President and Chief Executive Officer
+Hey Aaron.
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+Hi guys. Just a quick follow-up; on the margin related items, the level of accretion that you've recorded in the fourth quarter I think it was $950,000-ish, is that a decent kind of run rate to think of as we think about the accretion level going forward, obviously it will diminish over time. But I'm just curious if there was any outsized or undersized level that would have been there in the fourth quarter that we should think about?
+Alan Thian -- Chairman, President and Chief Executive Officer
+Well, the accretion certainly was not -- it will be the same as it is today, approximately. Except if we sell loans out of the available to maturity bucket that our New York loans (multiple speakers)
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+Sure, then you get an acceleration. I understand.
+David Morris -- Executive Vice President and Chief Financial Officer
+Definitely a part of the gain on sale, OK? So and -- OK.
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+Okay. And then maybe, if you just give some color on the additional charge off you had on the SBA loan in the quarter, what drove that?
+David Morris -- Executive Vice President and Chief Financial Officer
+Oh, you meant additional charge off. That is one of the SBA loans that we have a guarantee declined by SBA and the amount is about $500,000.
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+And what was missing in the underwriting there that the SBA elected to decline the request?
+David Morris -- Executive Vice President and Chief Financial Officer
+That's mainly because of a redefault in SBA's guidelines, if there is a default in 18 month, then the change of being declined is higher.
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+I'm sorry, what was higher?
+David Morris -- Executive Vice President and Chief Financial Officer
+The chance of being declined is higher.
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+Okay, great. Thanks for taking my questions.
+Operator
+Thank you. And I'm showing no further questions at this time, I would now like to turn the call back to your speakers for any closing remarks.
+Alan Thian -- Chairman, President and Chief Executive Officer
+Once again, thank you all for joining us today. We look forward to speaking with you next quarter.
+Operator
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program and you may all disconnect. Everyone have a great day.
+Duration: 34 minutes
+Larry Clark -- Investor Relations
+Alan Thian -- Chairman, President and Chief Executive Officer
+David Morris -- Executive Vice President and Chief Financial Officer
+Aaron Deer -- Sandler O'Neill & Partners LP -- Analyst
+I-Ming (Vincent) Liu -- Executive Vice President and Chief Risk Officer
+Larsen Lee -- Executive Vice President and Director of Mortgage
+Jacquelynne Bohlen -- Keefe, Bruyette & Woods, Inc. -- Analyst
+Tyler Stafford -- Stephens Inc -- Analyst
+More RBB analysis
+Transcript powered by AlphaStreet
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+
+Motley Fool Transcribers has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.

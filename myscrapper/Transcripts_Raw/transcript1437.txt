@@ -1,0 +1,479 @@
+Image source: The Motley Fool.
+Sherwin-Williams (NYSE:SHW) Q4 2018 Earnings Conference Call Jan. 31, 2019 11:00 a.m. ET
+Operator
+Good morning. Thank you for joining us this morning for the Sherwin-Williams Company's preliminary fourth-quarter 2018 and full-year 2018 sales and earnings results. With us on today's call are John Morikis, president and CEO; Al Mistysyn, CFO; Jane Cronin, senior vice president, corporate controller; and Bob Wells, senior vice president, corporate communications. This conference call is being webcast simultaneously in listen-only mode by Issuer Direct via the Internet at www.sherwin.com.
+An archived replay of this webcast will be available at www.sherwin.com beginning approximately two hours after this conference call concludes and will be available until Tuesday, February 5, 2019, at 5:00 p.m. Eastern Time. This conference call will include certain forward-looking statements as defined under U.S. federal securities laws with respect to sales, earnings and other matters.
+Any forward-looking statement speaks only as of the date on which such statement is made. And the company undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. A full declaration regarding forward-looking statements is provided in the company's earnings release transmitted earlier this morning. After the company's prepared remarks, we will open the session to questions.
+I'll now turn the call over to John Morikis.
+John Morikis -- President and Chief Executive Officer
+Thank you, and good morning, everyone. Earlier this morning, we released preliminary sales and earnings per share results for the fourth-quarter and full-year 2018 that differ materially from the sales and EPS guidance we provided back on October 25, 2018. Fourth-quarter consolidated sales increased approximately 2% and full-year sales increased approximately 17%. While there's a lot of noise in the GAAP earnings per share numbers in the release, some expected, some unexpected, on an adjusted basis, our preliminary full-year 2018 EPS of $18.53 missed the midpoint of our previous guidance range by approximately $0.59.
+$18.53 represents an increase of approximately 23% compared to last year's adjusted EPS of $15.07. In the interest of time, I'll keep my prepared remarks brief then we'll open the call to questions. First, as we said in this morning's release, the revenue shortfall in the quarter drove the majority of the earnings per share miss. Revenue in the quarter fell short of the midpoint of our guidance range by about $115 million, and all three segments contributed to this shortfall.
+
+In our North American paint stores, revenue growth slowed around the middle of October, remained weak through November, then rebounded to a solid mid-single-digit pace in December. Revenue and volume momentum so far in January has further accelerated from the pace set in December. While we could speculate why sales slowed down in October and November, the conspicuous rebound in December and January argue against a sustained broad-based downturn in our end markets. Consumer segment sales also lagged expectations throughout the quarter.
+Non-domestic sales by this group declined significantly versus last year. And many domestic retail accounts appear to have reduced inventory over the course of the quarter, possibly in response to a slowdown in POS transactions, similar to what we saw in our stores. While this negatively impacted sales in the fourth quarter, it sets up positively for first and second-quarter 2019 inventory builds assuming the pace of sell-through strengthens. Performance coatings group saw a soft revenue and volume growth in certain geographic markets and product categories, similar to what we reported in the third quarter.
+Some of this weakness is likely explained by the impact of tariffs. Our industrial wood finishing business in China is probably the best example, down in the high single digits year over year. Wood finishing also slowed in Europe in the fourth quarter, while automotive refinish sales declined in both North and South America. These pockets of weakness were offset to some degree by strong sales in other categories and geographies.
+General industrial and protective and marine coatings demand remained strong in most geographic end markets. Coil coatings was strong in most nondomestic markets but weak in the U.S. Second, while the rate of raw material inflation decreased sequentially from third quarter to fourth, input costs were still up mid-single digits year over year driven primarily by higher-cost petrochemical feedstocks from earlier in the year working their way through finished products like latex, oil-based resins and plastic packaging. While this inflation was largely anticipated, I mention it because it's contrary to the direction of these feedstocks over the past few months, and therefore, contrary to some people's expectations.
+Finally, while we were disappointed in our results in the fourth quarter, we remain confident that our full-year cash generation remains on track and should once again be in the range of 10% of net sales. We continue to use this cash to enhance shareholder value, opening 88 new stores and adding 150 new sales territories during the year, developing new innovative products and services, retiring $1.1 billion in debt, investing $250 million in capital expenditures, paying $320 million in dividends and buying back 1.525 million shares of company stock for a total of $613 million. The purpose of our press release and call this morning is to update you on our preliminary results for the fourth-quarter and full-year 2018. I realize this information likely raises many questions about 2019, and we intend to address those questions on our fourth-quarter year-end earnings call scheduled for January 31.
+We appreciate you holding your 2019 questions for that call. At this time, we would be happy to answer any questions you have about this morning's release. Thank you.
+Operator
+[Operator instructions] Our first question is coming from the line of Steve Byrne with Bank of America Merrill Lynch. Please proceed with your question.
+Ian Bennett -- Bank of America Merrill Lynch -- Analyst
+Thank you. This is Ian Bennett in for Steve. I know you don't want to speculate the cause or the reason of volatility in sales in the fourth quarter, but the two kind of things that are out there, the existing home sales declining and there was very wet weather. I was wondering if you could talk about which of those effects was meaningful.
+And if a below-trend sales environment continues, what levers can Sherwin pull to hit its fiscal 2020 targets?
+Bob Wells -- Senior Vice President, Corporate Communication
+Yes, Ian, this is Bob. We kind of were asking ourselves the same questions mid-fourth quarter, and while the architectural demand certainly slowed sequentially from third quarter to fourth, the pickup in demand in our stores in December and further acceleration in January suggests to us that something else impacted sales in October and November other than end market demand because end market demand just doesn't oscillate month to month that way. So while we recognize that some of the housing data has been soft as of late, we certainly don't see the impact, at least not yet on end markets like residential repaint, property management, etc. And as we mentioned on our third-quarter call, we're actually fairly bullish on new commercial business going forward.
+It tells us that something else affected sales in the middle of the quarter other than end market demand.
+Al Mistysyn -- Chief Financial Officer
+And Ian, this is Al. If you think about our 2020 target, the other levers that we can pull with a softer demand environment is, we still have a ways to go on value capture and we'll continue to push those levers and try to accelerate some of the areas where we haven't touched thus far, Asia Pacific manufacturing distribution, Europe manufacturing distribution and we still have other opportunities on the raw material consolidation side. So we'll continue to push those levers as quickly as we can without impacting our customers. And we're controlling our SG&A fairly well and we'll continue to do that outside of any value-capture projects.
+Ian?
+Operator
+Our next question is from the line of Arun Viswanathan with RBC. Please proceed with your question.
+Arun Viswanathan -- RBC Capital Markets -- Analyst
+Thanks. Just curious, you noted that there was a slowdown and you hit that 2% sales growth and there was weakness across all the verticals. Maybe you can just help us understand, within paint stores, assuming that you have it around 2% to 3% price, that volume was -- is it safe to assume that volume was in that 0 to 1%? And if so, do you think that could reaccelerate to the mid-single-digit level given what you're seeing so far in December and January?
+John Morikis -- President and Chief Executive Officer
+Yes, Arun. Price was approximately 2.5% in our stores here in North America, and as we mentioned, North America same-store sales were up about 3%. And if -- when you take a look at it, first thing I think you have to recognize is that it's important to keep in mind that that's on top of a pretty strong quarter, fourth quarter, last year. We had a 10% gain in 2017.
+So comps were tough, to begin with. But when you look at our segments, and to your point, kind of the rebounding effect, I think it's important just to keep in mind the position we have in the marketplace. We love the distribution platform that we have. It doesn't shake our confidence at all.
+But I probably should have mentioned during my remarks that the investments that we're making, I think, speak pretty loud and clear through our capital investments about the confidence that we have. So your question about kind of a rebounding effect, we have confidence in our model and where we're going. In fact, I mentioned in 2018 we opened 88 new stores, 36 of those were in the fourth quarter, that's in the face of a challenging environment. We had mentioned 150 new sales territories, 31 of those were in the fourth quarter.
+And in 2018, we introduced 25 new architectural products. We'll have about the same number in 2019. So when you look at our stores and the momentum that we feel we have from a position standpoint, we expect to get more than our share in the market.
+Arun Viswanathan -- RBC Capital Markets -- Analyst
+And just as a quick follow-up, I mean, just given what's going on in raws, do you expect the declines I guess to increase in future quarters? And would that result in your price increases also kind of moderating? Or should we expect that price increases would remain in that level of 2% to 3% or so? Thanks.
+Al Mistysyn -- Chief Financial Officer
+Arun, yes, the raw material environment, we still saw mid-single digits in our fourth quarter. We'll talk more about the '19 outlook on our fourth-quarter call later this month. But from a pricing standpoint, no, I'd expect to hang on to the price certainly in Performance, our paint stores group. And then across the other two segments, as you remember, we're chasing price all year.
+We're one price behind. So even if raw materials moderate, we need to get the price to be able to continue to offer the services we offer to our customer base.
+John Morikis -- President and Chief Executive Officer
+We still have agreed upon pricing rolling in.
+Al Mistysyn -- Chief Financial Officer
+That's right.
+Al Mistysyn -- Chief Financial Officer
+Thank you.
+Operator
+Our next question is from the line of Kevin McCarthy from Vertical Research Partners. Please proceed with your question.
+Matt DeYoe -- Vertical Research Partners -- Analyst
+Good morning. It's Matt on for Kevin. So margins have kind of come in quite a bit year over year and sequentially. Can you talk about the impacts of the lower operating leverage and whether EBIT would have been down in either Consumer and Performance on a year-over-year basis?
+Al Mistysyn -- Chief Financial Officer
+Matt, we'll get more into the details by segment and by P&L line on our quarter-end call. But what I would say is, I do feel good about the price that rolled in. And we talk about stores, and we went out October 1, as you recall, 4% to 6%, and we're seeing a similar effectiveness that we've seen in prior price increases. The raw material inflation environment, we still saw, like I said, mid-single digits in our fourth quarter.
+It remains to be seen, and what happens with raw materials in '19, and we can give you more color on how the segments performed in the fourth quarter and what our outlook is for '19 on our year-end call here.
+Matt DeYoe -- Vertical Research Partners -- Analyst
+OK. And then quickly, I guess, adjustments on the quarter for both environmental expenses and transaction and integration-related costs seems to have come in well above prior guidance. I'm just kind of wondering what the drivers of that are.
+Al Mistysyn -- Chief Financial Officer
+Yes, Matt. The environmental charges related to our continued remediation activities at our Gibbsboro, New Jersey site, we called that site out as one of the large four that we are continuing to work on in our 10-Q and our 10-K. The large complex site, we've broken it down into five different sections. Really, what we saw this year is the third section estimate in our second quarter.
+We got our fourth section estimated here in our fourth quarter. And what's tough is the timing and the amount is hard to predict and so we weren't 100% sure whether we'd get it in our -- get the estimates in our fourth quarter. We have one more section to go. That may be a '19 or may be a 2020 impact, but it remains to be seen.
+The other, on the integration expense, we did see higher-than-expected costs related to the physical inventory and onetime year-end-related adjustment. And then there's also, on top of that, the timing of costs associated with consolidating, integrating manufacturing and distribution. We just didn't -- we weren't sure again in anticipating what the physical year-end and adjustments would be, so we didn't call it out. It came in much bigger than we thought though.
+Matt DeYoe -- Vertical Research Partners -- Analyst
+All right. I appreciate that. Thank you.
+Al Mistysyn -- Chief Financial Officer
+Thanks, Matt.
+Operator
+The next question is coming from the line of PJ Juvekar with Citigroup. Please proceed with your question.
+Dan Jester -- Citi -- Analyst
+Hey, good morning, everyone. It's Dan Jester on for PJ.
+John Morikis -- President and Chief Executive Officer
+Hey, Dan.
+Dan Jester -- Citi -- Analyst
+So I just wanted to go back to the price increase. Are you at all concerned that the slowdown that you saw in the stores was essentially simultaneous with that 4% to 6% price increase you put into the stores?
+John Morikis -- President and Chief Executive Officer
+Not at all.
+Dan Jester -- Citi -- Analyst
+OK. And then on the consumer business, you talked about destocking. Can you give us any sense of where you think your customer inventories are, and directionally, how much of the -- I think you said it could be a benefit, but could you give us any more color about, directionally, how much you think that could be?
+John Morikis -- President and Chief Executive Officer
+Well, I would say that they're actually in pretty good shape right now. I think the steps that they took in rationalizing down their inventory reflected likely the POS, and as the POS strengthens, we think that inventory build will take place. So it's all a function of the demand and we're ready to serve our customers.
+Dan Jester -- Citi -- Analyst
+OK. Then one quick one, if I can squeeze it in. Any impact from the U.S. government shutdown so far in January for you guys?
+John Morikis -- President and Chief Executive Officer
+No.
+Dan Jester -- Citi -- Analyst
+OK. Thank you very much.
+John Morikis -- President and Chief Executive Officer
+Thank you.
+Operator
+The next question is from the line of Ghansham Panjabi with Baird. Please proceed with your question.
+Matt Krueger -- Robert W. Baird & Co. -- Analyst
+Hey, good morning.This is actually Matt Krueger sitting in for Ghansham. How are you doing today?
+John Morikis -- President and Chief Executive Officer
+Hey, Matt.
+Matt Krueger -- Robert W. Baird & Co. -- Analyst
+So I was hoping that you could provide a little bit of added detail on volume performance across the Americas Group with a particular emphasis on kind of the end market buckets. Did it differ materially within commercial construction, residential repaints, new residential, etc, in terms of volume performance during the quarter?
+John Morikis -- President and Chief Executive Officer
+Yes, Matt, I'd say DIY -- trend in DIY has been soft most of the year, so it continued to be soft and it was a little softer than we would have liked or expected. It's probably in line with what we've been seeing, for the most part, over the year from a trend standpoint. Commercial, I would say that we all know the timing of large projects in a small quarter like the fourth quarter can be impactful. And I'd say that we saw that in the commercial side, as projects were pushed back into the first quarter or perhaps even a little bit further into the second depending on the stage that they are in, that had an impact in our commercial business.
+Res repaint, I'd say we continued a strong trend there; good performance, not quite where we would like it to be, but still we believe well ahead of the market.
+Matt Krueger -- Robert W. Baird & Co. -- Analyst
+OK, that's very helpful. And then if I could wrap a couple questions together. So following up on the commercial commentary, are those projects, given the macro economic environment, at risk of being pushed out even further? Or is fourth quarter just a lumpy quarter? And then understanding that the fourth quarter saw mid-single-digit inflation overall, can you talk about where we exited the year or where we sit in January specifically?
+John Morikis -- President and Chief Executive Officer
+Well, let me talk about the question about the commercial piece first here. I would say that what gives me the most comfort are the conversations that we have with our customers and our employees who are belly to belly with the customer. And the confidence that our customers have on the projects that they have, the bidding pipeline, are very strong, very strong. So this pushback of some projects happens for a lot of reasons, but many of them are new construction, some of them are repaint and some of them are, quite frankly, under way that have been pushed back and delayed for various reasons.
+Bob Wells -- Senior Vice President, Corporate Communication
+Yes. And Matt, on the inflation follow-up portion, I'm assuming you mean inflation in raw materials?
+Matt Krueger -- Robert W. Baird & Co. -- Analyst
+Yes, correct.
+Bob Wells -- Senior Vice President, Corporate Communication
+Yes. We'll give an official outlook on our 2018 year-end call on the 31st. But suffice it to say that the decline in some of the petrochemical feedstock that we've seen over the last couple of months, we've said, will work their way into our raw material basket over a 90- to 120-day lag period. So to the -- assuming that inputs like propylene and ethylene and crude oil, to a more broad extent, stay where they are today or remain stable, we should see some relief in petrochemical raw materials around mid-first quarter.
+But we'll put numbers to that in -- on the 31st. Titanium dioxide is also kind of a question mark at this stage, whether as paint inventory builds occur in the first quarter, whether that market tightens back up or not is to be determined. But we'll have better visibility on the 31st and we'll be prepared to give you more detailed outlook then.
+Matt Krueger -- Robert W. Baird & Co. -- Analyst
+That's very helpful. Thank you very much.
+Bob Wells -- Senior Vice President, Corporate Communication
+Thank you.
+Operator
+The next question comes from the line of John Roberts with UBS. Please proceed with your question.
+John Roberts -- UBS Investment Bank -- Analyst
+Thank you. In auto refinish, PPG had a weak third quarter, but it was attributed to a distribution correction. You have controlled distributions in your business. So what would you attribute the weakness there to?
+John Morikis -- President and Chief Executive Officer
+Well, we had weakness in North and South America, or Latin America, John, and there are a number of elements there that impact that business, most -- just driven on the demand in the market itself. And it's very difficult to point to one element in that business. We've talked openly about the fact that we're introducing some new technology that is really helping us grow the number of shops that we do business with. We expect good things from that business going forward.
+John Roberts -- UBS Investment Bank -- Analyst
+Thank you.
+John Morikis -- President and Chief Executive Officer
+Thank you.
+Operator
+The next question is from the line of Scott Mushkin with Wolfe Research. Please proceed with your question.
+Scott Mushkin -- Wolfe Research -- Analyst
+Hey, guys. Thanks for taking my questions. I had a couple of things that I wanted to go over. So first of all, was there any material differences regionally as you look at the business?
+John Morikis -- President and Chief Executive Officer
+Regionally? Well, I'd...
+Scott Mushkin -- Wolfe Research -- Analyst
+Paint stores.
+Bob Wells -- Senior Vice President, Corporate Communication
+Paint stores.
+John Morikis -- President and Chief Executive Officer
+Oh, you're talking about in stores. So I was just going to ask, are you talking about globally or in stores?
+Al Mistysyn -- Chief Financial Officer
+Yes. In stores, Scott, we did have pockets in certain regions that were softer than others and I think it points to the fact that in a small quarter like the fourth quarter, you're going to have weather in our fourth quarter, you're going to have weather in our first quarter. I think it just moves quarter-to-quarter more than a demand issue overall.
+Bob Wells -- Senior Vice President, Corporate Communication
+I would add to that, Scott, that in the Southwest, over the last couple of quarters, we've been going up against the rebuild from the damage caused by Hurricane Harvey. So we've had a pretty -- a particularly difficult comp in the Southwest division, so the numbers year-over-year look a little tougher in that region.
+Scott Mushkin -- Wolfe Research -- Analyst
+Yes, I mean, it just seems to me given the fourth quarter being small like you guys mentioned, I mean it was unprecedentedly rainy in a lot of the eastern part of the country. I mean that must have had a material impact. I can't believe it didn't. It could have driven a lot of what happened.
+Am I wrong to think that?
+John Morikis -- President and Chief Executive Officer
+Well, it impacts the painting projects that are ready for painting. But you're right, it also impacts just construction in general, and hence, the comment earlier about just some of these projects getting pushed back. So it does impact our business. We can't avoid that.
+Scott Mushkin -- Wolfe Research -- Analyst
+So my second question and I guess more broadly if we look out over next year or the year after, what caused actually EPS to not grow as you guys look at the business and as we try to kind of think about the business? What would you say the factors would be? I guess, obviously, the one is macro. But how do you guys think about that and what are your expectations for kind of growth as we move out next year or two?
+John Morikis -- President and Chief Executive Officer
+Yes, so the specifics of our growth projections will be on our next call. But I will say this, that to answer your question, that what could impact EPS, I think, are more -- it's more timing than anything else and it's just if raw material prices roll in, we've -- continue to roll in. We, I believe, have demonstrated and continue to work on pricing that's been negotiated and we'll continue to roll in as we go forward. But if, for whatever reason, raw material costs continued to rise, we'd have to go back and continue to fight for that.
+And it would be a timing issue, not an overall impact issue. We've got great confidence, as I mentioned earlier, in what we're doing, the investments that we're making and our position in the marketplace. So my answer is it's going to grow, it's going to continue to grow. And what might impact it is going to be from a timing perspective.
+Al Mistysyn -- Chief Financial Officer
+Yes. Scott, I would just add to that. If you look at the past two years and the outsized increases we saw in raw materials, EPS continued to grow and at a fairly decent clip. It's just not as fast or as large as you would like it to be, but it's a testament to the teams pushing through price, as John mentioned.
+It's the value capture opportunities that we continue to pursue as we combine the two organizations. And as I mentioned earlier, there is still more room to grow there, but it's just not as fast as maybe when we're sitting here in October of '16 and looking out to 2020. That's the little bit of a slowdown in that growth, but certainly growing.
+Scott Mushkin -- Wolfe Research -- Analyst
+And sorry, just percentage, just remind us and then I'll stop, what percentage of your paint stores group goes to new home builders?
+Bob Wells -- Senior Vice President, Corporate Communication
+Yes. Scott, new home building in the industry represents about 12% of gallons. We'd be a little above that. We'd be a little bit overweight relative to the industry.
+Scott Mushkin -- Wolfe Research -- Analyst
+Perfect, guys. Thanks very much.
+Bob Wells -- Senior Vice President, Corporate Communication
+Thank you.
+Operator
+The next question is from the line of Duffy Fischer with Barclays. Please proceed with your question.
+Duffy Fischer -- Barclays -- Analyst
+Yes, good morning fellows. Just two quick ones. First, seasonally, how does October, November and December in the current configuration in a normal year run for you guys size-wise for Q4?
+Al Mistysyn -- Chief Financial Officer
+Yes. Certainly, October is, by far, the largest. You see a step-down in November and then even a bigger step-down in December. As you see -- as you get around Christmas and the holiday, you see more shutdowns.
+Duffy Fischer -- Barclays -- Analyst
+OK. And then I was struggling to go back over last 10, 15, 20 years and find a comp quarter where you seem to have this big of a delta kind of from one month there. Can you recall a similar quarter where we saw this kind of volume action during the quarter?
+Bob Wells -- Senior Vice President, Corporate Communication
+Yes, Duffy, if you look back at third-quarter 2015 and third-quarter 2016, there were pretty dramatic steps. Now I think we comped 2.1% in both of those quarters. I do believe that the reason for the step-down in the comp during those years was different than the reason that we encountered in the fourth quarter this year. That was more of hitting the wall on industrywide labor constraints where we really cranked up the initiative to drive share of wallet, to drive new account activation.
+This -- the October and November slowdown this year seemed to be something different. I don't believe it was largely related to labor constraints.
+Duffy Fischer -- Barclays -- Analyst
+OK. Great. Thanks, guys.
+Bob Wells -- Senior Vice President, Corporate Communication
+Thank you.
+Operator
+Our next question comes from the line of Vincent Andrews with Morgan Stanley. Please proceed with your question.
+Vincent Andrews -- Morgan Stanley -- Analyst
+Thanks. And Bob, if I could just ask you a follow-up on the raw materials and maybe in particular TiO2. I mean, your sales have come in below your expectations the last two quarters. The broader industry is kind of following the same trend, but below expectations.
+So presumably, that means your raw material inventory has been building versus what your sales expectations have been over the last couple of quarters. So shouldn't that, all else equal, put more pressure or increase your capability to get lower raw material costs as we move into 2019? Is that a fair statement?
+Bob Wells -- Senior Vice President, Corporate Communication
+Vincent, if -- I would agree with you on your assessment of our sales relative to expectations. If that applies more broadly to the industry, and we're hearing rumblings in Europe about software TiO2 demand, I would be surprised if that was not also, to some degree, happening in Asia Pacific. North America has been a stronger market -- stronger end market than those two markets over the last year or so. It really depends on how the paint season unfolds as we come into the stronger quarters.
+There is going to be an inventory build in North America in the first quarter. Paint manufacturers are going to crank up operations and build more inventory. That's going to require more TiO2. So I don't know that you're going to see weakness in demand in the first quarter.
+But if takeaway at the shelf slows, obviously that's going to result in reduced demand for TiO2.
+Vincent Andrews -- Morgan Stanley -- Analyst
+OK. And just as a follow-up, as you look at your store base and leave aside geographic, are you seeing anything in terms of divergent sales trends and stores that are just a couple of years old versus a decade old or older than that? Is anything changing sort of about your penetration rates or sort of the incremental utility of the new store?
+John Morikis -- President and Chief Executive Officer
+I would say that our performance in our new stores is actually improving. As we continue to invest in our new stores, the team there is doing a terrific job, and we often refer to our culture here of a continuous improvement culture. I mean, we're trying to get better at opening stores every day and I'd say the team is improving in our ability to do that.
+Vincent Andrews -- Morgan Stanley -- Analyst
+But no signs of cannibalization or anything that would make you less excited about continuing to open 100 stores a year?
+John Morikis -- President and Chief Executive Officer
+Not at all. We think it's an important part of our strategy and we think it's a point of differentiation that we expect to continue to leverage.
+Vincent Andrews -- Morgan Stanley -- Analyst
+OK. Thank you very much.
+John Morikis -- President and Chief Executive Officer
+Thank you.
+Operator
+The next question comes from the line of Robert Koort with Goldman Sachs. Please proceed with your question.
+Robert Koort -- Goldman Sachs -- Analyst
+Thank you. Good morning. John, I'm not sure if I missed it, but when you -- you sort of characterized the surprising weakness in October extending to November and then some momentum return in December and January, was that a paint stores only? Or is that also applicable to the performance coatings?
+John Morikis -- President and Chief Executive Officer
+Mostly paint stores.
+Robert Koort -- Goldman Sachs -- Analyst
+And then, this volatility is pretty surprising, but you asserted quite a bit of confidence in the model and the go-forward and it looks like you'll get a little sale price today on Sherwin-Williams stock. Is there any change in your appetite or approach toward using that balance sheet to get a little more aggressive on a repo program?
+Bob Wells -- Senior Vice President, Corporate Communication
+No, Bob. This is -- we met all our commitments on paying down debt in 2019. As John talked about, we paid down $1.1 billion. But we're going to invest in CAPEX, we're going to pay the dividend.
+Absent M&A, we're going to buy our stock back.
+Robert Koort -- Goldman Sachs -- Analyst
+Got it. Thank you.
+Bob Wells -- Senior Vice President, Corporate Communication
+Thank you.
+Operator
+Our next question is from the line of Chuck Cerankosky with Northcoast Research. Please proceed with your question.
+Chuck Cerankosky -- Northcoast Research -- Analyst
+Good morning, everyone. John, when you're looking at the reacceleration in paint stores sales in December and into January thus far, how much of that is volume pickup? How much of that is price, please?
+John Morikis -- President and Chief Executive Officer
+We've got terrific volume moving through, Chuck. It's very strong volume.
+Chuck Cerankosky -- Northcoast Research -- Analyst
+OK. Then any shift in the end markets over that transition period where demand is maybe strengthening more? Or is it just recovering across-the-board?
+John Morikis -- President and Chief Executive Officer
+It's very across-the-board.
+Chuck Cerankosky -- Northcoast Research -- Analyst
+All right. Thank you.
+Operator
+Our next question is from the line of Nishu Sood with Deutsche Bank. Please proceed with your question.
+Nishu Sood -- Deutsche Bank -- Analyst
+Thank you. Given that there are concerns about where we're at in the cycle -- both the construction cycle, as well as the economic cycle, it obviously gives a different feel to a sales wobble like we've seen here in 4Q. Are you concerned that the sales wobble reflects where we're at cyclically? Are we -- does it indicate any kind of inflection point to you? Or do you still have a strong degree of confidence in your end markets?
+Bob Wells -- Senior Vice President, Corporate Communication
+You know, Nishu, if not for the bounce back in December and January, it would certainly feel like this was the result of softening end market demand conditions. We've said for some time that while Residential Repaint business has been extraordinarily strong -- for five consecutive years it has, that in the absence of existing home turnover, we don't know how long that cycle can last. This does not appear to be the end of the Residential Repaint cycle. It was a little softer than we'd seen in recent quarters, but it was still very robust.
+And the new residential build numbers are softening. That's a relatively small piece of the market. And to the extent that commercial actually shows better momentum, that could kind of fill the void for us. Commercial is our largest market share segment.
+So while we're always watching the end markets and talking to customers about their order books, this does not appear to be a reflection of a change in the cycle.
+Nishu Sood -- Deutsche Bank -- Analyst
+Got it. And apologies if I missed this a little earlier, but the -- so with the 2% overall sales growth and 3% in the stores implies around flat to plus 1% or so in the other two segments. Were they roughly the same? Was one of them negative, whereas the other one was a little positive? Can you give us just a little more color there, please?
+Al Mistysyn -- Chief Financial Officer
+Yes, Nishu. So if you look at our sales, TAG, like we talked about, it's about 3%, paint stores grew 3.8%, Latin America down mid-single digits. Consumer was down mid-single digits, but that does include about a 3% unfavorable impact for the revenue recognition. As you recall, that's been going on all year.
+And Then performance coatings was up mid-single digits.
+Nishu Sood -- Deutsche Bank -- Analyst
+Got it. Great. Thank you.
+Operator
+The next question comes from the line of Dmitry Silversteyn with Buckingham Research. Please proceed with your question.
+Wahid Amin -- Buckingham Research -- Analyst
+This is Wahid Amin on for Dmitry. Just to follow up on M&A activity, you have some sort of financial flexibility. Would you mind speaking a little bit on your appetite for M&A and how target-rich the environment is and if you have any size limitations?
+John Morikis -- President and Chief Executive Officer
+Well, we are very active, I would say that. And I'd say this target area that we're probably most focused on right now would be more bolt-on acquisitions than large transformational. We've got a lot of opportunities here that we think could help our existing businesses to further differentiate in the market and we're in good discussions with a good number of them.
+Wahid Amin -- Buckingham Research -- Analyst
+And if I can ask one more question. Just on the Valspar synergies, would you mind giving us a little update on targets there? And any timing and magnitude?
+Al Mistysyn -- Chief Financial Officer
+Yes, I think what we'll do is give you an update on the value capture realization for our year -- on our January year-end call and then we'll give you also an update on the 2019 outlook.
+Wahid Amin -- Buckingham Research -- Analyst
+All right. Thank you very much.
+Bob Wells -- Senior Vice President, Corporate Communication
+Thank you.
+Operator
+The next question is from the line of Mike Sison with KeyBanc Capital Markets. Please proceed with your question.
+Mike Sison -- KeyBank Capital Markets -- Analyst
+Hey, guys. How are you doing? In terms of consumer brands and performance coatings, was there any improvement in December or January?
+John Morikis -- President and Chief Executive Officer
+In consumer brands, there was a nice improvement. And in performance coatings, performance coatings finished the year strong and I'd say that's continuing as well in January.
+Al Mistysyn -- Chief Financial Officer
+Yes. I think, Mike, you're going to continue to see the choppiness across the different regions and product categories, as John mentioned in his opening remarks.
+John Morikis -- President and Chief Executive Officer
+Yes, just maybe a little color might be helpful there for you. Because I think the comment I just made reflects largely North America. So I'm going to give you a little feedback or some color on that because North America's our largest and was our best performer. In North America, though, coil was a headwind and that, we think, largely was impacted by tariffs.
+Latin America was next with good performance in GI and packaging, and as I mentioned earlier to John Roberts, automotive was a headwind for us in Latin America. Asia, we had a strong performance in GI and coil. And as I mentioned in my prepared remarks, our industrial wood business was a drag, and again, we believe was tariff related. And Europe overall was a softer market for us.
+Mike Sison -- KeyBank Capital Markets -- Analyst
+OK. And just a quick follow-up on the fourth quarter. EPS is going to be up and sales up a little bit. Is adjusted EBITDA or adjusted operating income going to grow in the fourth quarter year over year?
+Al Mistysyn -- Chief Financial Officer
+Yes, I think what we'll do is get into that level of detail again on our fourth-quarter call and then we can give you an outlook on '19.
+Mike Sison -- KeyBank Capital Markets -- Analyst
+OK. Thank you.
+Al Mistysyn -- Chief Financial Officer
+Thank you.
+Operator
+The next question is coming from the line of Rosemarie Morbelli with G. Research. Please proceed with your question.
+Rosemarie Morbelli -- G. research -- Analyst
+Good morning, everyone, and thanks for taking my question. I was wondering regarding the wood refinishing in China, do you see most of the decline in exports, and therefore, the tariffs, which you pointed down, but -- you pointed out. But could you give us a feel for what is happening in the domestic market as far as that area is concerned?
+John Morikis -- President and Chief Executive Officer
+I'd say the market in general is a tighter market. Certainly, a larger percentage of our business is trade related, but the overall market is a softer market.
+Rosemarie Morbelli -- G. research -- Analyst
+And you see it as well then on the architectural paint going through -- I am drawing a blank here.
+John Morikis -- President and Chief Executive Officer
+The Huarun one?
+Rosemarie Morbelli -- G. research -- Analyst
+Yes, thank you. Huarun.
+John Morikis -- President and Chief Executive Officer
+Yes.
+Rosemarie Morbelli -- G. research -- Analyst
+Also soft?
+John Morikis -- President and Chief Executive Officer
+Yes, yes. I'm sorry, yes.
+Rosemarie Morbelli -- G. research -- Analyst
+OK. And then looking at the -- two questions, if I may. Looking at the differentiation you are looking for in terms of bolt-on M&A, are we thinking of technologies that you do not have? And if you didn't mind sharing with us which technologies you would actually -- you are actually missing from your portfolio? Or whether you are talking mostly about geographic outreach?
+John Morikis -- President and Chief Executive Officer
+Well, Rosemarie, we are looking for both technological opportunities -- technology opportunities and geographic opportunities and we're likely not going to share those types of targets on a public call. But rest assured that we look business by business to understand where those opportunities are. And I've often said, we're not trying to be everything to everyone. We want to be where we can make money.
+And so we look at those targets with a very disciplined eye to understand how it impacts the overall business. And as I mentioned, we do that business my business.
+Rosemarie Morbelli -- G. research -- Analyst
+OK. Thanks. And the consumer, if I may sneak one other. Is it the same trend which has been coming down for several years now? Has that worsening? Or is it more a question of weather related or inventory correction as opposed to the overall do-it-yourself market really continuing on the decline, which is accelerating?
+John Morikis -- President and Chief Executive Officer
+Well, it's a good question and we've often highlighted the shift to the do-it-for-me, and clearly, we're positioned very well from our stores' position in the marketplace to capture that. There -- I don't think that the continued shift from DIY or do it yourself to do it for me has accelerated in a meaningful way. I think it's probably maintained. And we have wonderful customers in a number of those markets that were working on the DIY business and we want to help them grow their pro business in the remodeler and tradesmen area as well.
+Rosemarie Morbelli -- G. research -- Analyst
+OK. Thank you.
+John Morikis -- President and Chief Executive Officer
+Thank you.
+Operator
+Our next question is from the line of Stephen East with Wells Fargo. Please proceed with your question.
+Truman Patterson -- Wells Fargo -- Analyst
+Hey, guys. Good morning. This is actually Truman Patterson on for Stephen East. Thanks for taking our questions.
+John Morikis -- President and Chief Executive Officer
+Hey, Truman.
+Truman Patterson -- Wells Fargo -- Analyst
+So first question, thanks for the color on the end markets DIY, repaint and commercial. Could you guys just talk a little bit about kind of the interior versus the exterior volume growth throughout the quarter and into January? And then jumping over to the Residential Repaint, I believe you guys said that it was up mid-single digits in the fourth quarter. Can you guys just talk about those trends in December and January as well?
+John Morikis -- President and Chief Executive Officer
+Res repaint was a little bit higher than what you said in mid-single for the fourth quarter. It was just shy of double digits. And as it relates to interior, exterior, I'd categorize it this way, Truman. Both were up mid-single digits, but both were below our expectations.
+Al Mistysyn -- Chief Financial Officer
+And I would just add that both have accelerated as we got into December and January as well.
+Truman Patterson -- Wells Fargo -- Analyst
+OK, OK. And just for clarity, earlier you guys said that the pricing in October is sticking pretty much as strongly as during the past couple of years, right?
+John Morikis -- President and Chief Executive Officer
+Yes, but -- it is. And just like we've always talked about historically, we gain traction as we go so we don't walk in day one with a take-it-or-leave-it price mentality in any of our businesses. So it's gone in exactly as we'd planned and expected and that traction will continue as we go forward.
+Truman Patterson -- Wells Fargo -- Analyst
+OK, OK. Thanks for that clarification. A final question, just on the raw material basket and the potential deflation. Did you guys see any change in the pricing from suppliers throughout the fourth quarter kind of from a beginning versus the end?
+Al Mistysyn -- Chief Financial Officer
+Yes. I would say, it was pretty flat in the first part -- first half of the quarter. And then we saw a sequential decline as we got into later in the quarter.
+Truman Patterson -- Wells Fargo -- Analyst
+OK. Thank you, guys.
+Al Mistysyn -- Chief Financial Officer
+Thanks, Truman.
+Operator
+The next question is from the line of Eric Bosshard with Cleveland Research. Please proceed with your question.
+Eric Bosshard -- Cleveland Research -- Analyst
+Thanks. In terms of pricing, it sounds like on the Stores side, it's going as planned. Can you give us a little bit of an update or picture into the Consumer performance, what's going on price in there in 4Q relative to 3Q? And what the trend is there?
+John Morikis -- President and Chief Executive Officer
+I would say, Eric, that the traction continues. All of our businesses are continuing with their pricing activity and the tractions improving with -- in each one of them.
+Eric Bosshard -- Cleveland Research -- Analyst
+And then, secondly, on Performance, the results in '18 it felt like slowed in 3Q relative to the first half and trying get a bit of a clarity in 4Q that does it look like 3Q? Did the momentum end similar to that? Can you just give us a little bit better context on the performance and what that growth looks like relative to what you had achieved previously?
+Al Mistysyn -- Chief Financial Officer
+Yes, I think what you saw is, specifically, Asia Pacific has slowed and China really in particular, as John just talked about, not only on the export side of the industrial wood, but also on the architectural and we saw that across a number of our businesses even though, that being said, there are product categories that are still strong like GI and coil. They just kind of decelerated as we saw in the second half. So we're going to see choppiness as we go across these different regions and product categories, but I think we're well-positioned to continue to grow our share.
+Eric Bosshard -- Cleveland Research -- Analyst
+OK. Thank you.
+Al Mistysyn -- Chief Financial Officer
+Thank you.
+Operator
+The next question is from the line of with Laurence Alexander with Jefferies. Please proceed with your question.
+Dan Rizzo -- Jefferies -- Analyst
+Good morning.This is Dan Rizzo on for Laurence. How are you?
+John Morikis -- President and Chief Executive Officer
+Hey, Dan.
+Dan Rizzo -- Jefferies -- Analyst
+Hey, in terms of bounce back, did orders bounce back to expected trend? Or was December significantly above what you had planned?
+Al Mistysyn -- Chief Financial Officer
+I think it bounced back to what we would have expected, not significantly above what we would expect.
+Dan Rizzo -- Jefferies -- Analyst
+OK. And then given the volatility was unusual, did you learn anything in terms of feedback loops within your business that will become an opportunity for improvement going forward?
+John Morikis -- President and Chief Executive Officer
+Yes, we're always looking to improve that and we're blessed to have a direct relationship with our customers, and that's actually something that we're working on to better understand. I'd say the way that this rolled in, however, caught our customers by surprise as well.
+Dan Rizzo -- Jefferies -- Analyst
+OK. Thank you.
+John Morikis -- President and Chief Executive Officer
+Thank you.
+Operator
+Our next question is from the line of Christopher Parkinson with Credit Suisse. Please proceed with your question.
+Harris Fein -- Credit Suisse -- Analyst
+This is Harris Fein on for Chris. Thanks for taking my question. In terms of the painter labor shortage, have you seen kind of any relief during the quarter? Or I guess given the shortage, do you think that it may take any longer than usual to recoup any business from projects that have been pushed out?
+John Morikis -- President and Chief Executive Officer
+Yes. I don't think there has been much change at all in the area of labor. I'd say what gives me confidence is that our customers continued to speak to their bidding pipeline as very active and full and they're working through the projects that are, in many cases, they're able to increase pricing themselves, too. So I don't think there has been much change in that area, but we think that it helps us.
+It helps us by the services that we provide and the products that we provide. If it can help our customers be more efficient, it increases their loyalty to us. And we're working aggressively to help them be more successful.
+Harris Fein -- Credit Suisse -- Analyst
+And just one more question. I know that there was a lot of noise on the group in the quarter, but do you have a more established idea of how much business you guys have retained from some of the same products that you pulled from the other big box retailers when you decided to align with Lowe's?
+John Morikis -- President and Chief Executive Officer
+Yes, I'd say we've got a very good line of sight on it and we believe that this is a terrific relationship that we're building not only with Lowe's but with other key suppliers and other key customers. This, we believe, will pay dividend over a very long term. And I'm not measuring success here in one quarter. I look at the partnerships that we have in the marketplace, their desire to grow and our -- the resources we have, if it's in manufacturing, supply chain and the technical or R&D side, we're committed to their success and we believe that this alignment is going to be terrific.
+There'll be some shortfall. There's going to be some annualization for another quarter or two of -- where we have pulled that business out from our other supplier -- or other customer, but overall, we think this is going to be good win for our shareholders.
+Harris Fein -- Credit Suisse -- Analyst
+Thank you.
+John Morikis -- President and Chief Executive Officer
+Thank you.
+Operator
+The next question is from the line of Jeff Zekauskas with J.P. Morgan. Please proceed with your question.
+Jeff Zekauskas -- J.P. Morgan -- Analyst
+Thanks very much. In October, November, how unusually wet was the weather? And did your volume decreases in stores correspond to the places that were wetter? Or did they not correlate with the wet weather very much?
+John Morikis -- President and Chief Executive Officer
+No, I'd say we did see some direct correlation. And Jeff, we hate talking about weather. And as you heard earlier, I mean Al mentioned that we're impacted typically in the fourth quarter, and again, in the first quarter. Weather dynamics are something that we don't control.
+When you have the type of rain and sometimes snow issues that you face, it impacts not only that day's sales, but it also impacts the progress of some of these projects that are coming on. So it's hard to necessarily tie and correlate directly to that days sales because it oftentimes will just push projects back in the -- from a construction-based project as well.
+Jeff Zekauskas -- J.P. Morgan -- Analyst
+I realize you're reluctant to talk about weather. But what do you think the volume effect of the weather effects were in October and November or in the quarter generally in the stores business?
+John Morikis -- President and Chief Executive Officer
+It's very difficult to speculate on that and it would be just that, a speculation. We can see it from a trend line standpoint where if you look at days in -- where good weather is most prominent across the country, we see nice pickup in our Stores business, but trying to speculate on that, we don't think is healthy. We're really determined to do the things that will offset those days that are impacted, some are within our control, some are not. But overall, we want to just continue to provide our customers with the best service that help them through those challenging times.
+Jeff Zekauskas -- J.P. Morgan -- Analyst
+OK. Then lastly, if you look at your China business overall in volume terms through the four quarters of 2018, you don't have to give specific numbers, but can you roughly talk about how fast volumes grew or shrank in each of the four quarters so that we can have an idea of what the trends are?
+Al Mistysyn -- Chief Financial Officer
+Yes, Jeff. The trends certainly are, first half, we were strong, very strong in those. And as a result of picking up new business, we commented on GI, in particular, about the new businesses we picked up. And then, like we talked about, you did see a sequential slowdown third quarter and then fourth quarter.
+Jeff Zekauskas -- J.P. Morgan -- Analyst
+So China is running, I don't know, negative 10, negative five now?
+Al Mistysyn -- Chief Financial Officer
+Oh, no, no, no. I would -- China is still up, but just not at the magnitude it was because of some of the headwinds we've seen in the tariffs.
+Bob Wells -- Senior Vice President, Corporate Communication
+There are businesses within our Chinese portfolio that are performing at the level that you mentioned, but not the country as a whole.
+Jeff Zekauskas -- J.P. Morgan -- Analyst
+So in the fourth quarter, your volumes were up year over year in China?
+John Morikis -- President and Chief Executive Officer
+I believe slightly, yes.
+Jeff Zekauskas -- J.P. Morgan -- Analyst
+OK. Great. Thank you so much.
+John Morikis -- President and Chief Executive Officer
+Thank you.
+Operator
+Our next question is from the line of Justin Speer with Zelman & Associates. Please go ahead with your question.
+Justin Speer -- Zelman & Associates -- Analytst
+Thanks. I just want to follow that line of questioning from John -- from Jeff on Western Europe. How are the volumes there in terms of cadence?
+John Morikis -- President and Chief Executive Officer
+They were softer. We had some markets there that were negative, but overall, Europe was a soft market for us in the fourth quarter.
+Justin Speer -- Zelman & Associates -- Analytst
+Anything stand out in terms of like region there and/or product category?
+John Morikis -- President and Chief Executive Officer
+No. I'd say, overall, it was pretty good. We had good packaging performance, but outside of that, I'd say it was a softer quarter.
+Al Mistysyn -- Chief Financial Officer
+And just to be clear, Justin -- just to be clear, I mean we're talking low -- down low single digits. We're not talking mid- or high single digit.
+Justin Speer -- Zelman & Associates -- Analytst
+OK, OK. And then in terms of the productivity leverage you mentioned and you also mentioned you're still behind on cost in performance coatings, I believe. Is that still going to be the case with what you're seeing on raw materials being behind on cost?
+Al Mistysyn -- Chief Financial Officer
+I would say, Justin, when we give an outlook on 2019, we can have a better line of sight to how we're progressing on that price/cost dynamic and we'll give that as we get to our year-end call here at the end of this month.
+Justin Speer -- Zelman & Associates -- Analytst
+Understood. And then on the stores business, I don't think you mentioned it, but what did the contractor for new construction -- I don't if you break that out, but the new construction component or the traffic associated with new resi, how did that look and trend in the quarter?
+John Morikis -- President and Chief Executive Officer
+It was positive for the quarter.
+Justin Speer -- Zelman & Associates -- Analytst
+And what is your expectation there? In particular, as we look to the first half -- I guess you can't talk to it, but in terms of what we're seeing, is it degradation of order trends and patterns? How do you manage around that?
+John Morikis -- President and Chief Executive Officer
+Yes, the way we manage around that is we go earn new business and we're proud that we've got a terrific position in our new residential space where we're always reporting the penetration that we have, for example, in the larger home builders where we've recently added another exclusive agreement on our national home builder front. So we are determined to continue to grow. We know there'll be some choppiness there, but the only way we know to grow in a choppy market is to make sure we're growing customer base and that's what we're focused on.
+Justin Speer -- Zelman & Associates -- Analytst
+Perfect. And last question for me, just I think you mentioned the consumer was down mid-single. Did that include any load-in -- further load-in benefit from the large customer wins?
+John Morikis -- President and Chief Executive Officer
+Not so much, and that also included the rev rec that Al mentioned. So I'd say, for the most part, any meaningful load-in had already been completed.
+Justin Speer -- Zelman & Associates -- Analytst
+So I don't know if you could talk to it, but do you think that the point of sale, that the sell-in to that channel was matching or at or below or above point of sale?
+John Morikis -- President and Chief Executive Officer
+Yes. Out of respect for the relationships that we have with all our customers, we don't want to comment on their POS.
+Justin Speer -- Zelman & Associates -- Analytst
+Got it. Appreciate it, guys. Thank you.
+John Morikis -- President and Chief Executive Officer
+Thank you.
+Operator
+There are no additional questions at this time. I will turn the call back to Bob Wells for closing remarks.
+Bob Wells -- Senior Vice President, Corporate Communication
+Thank you, Rob. Let me close today by thanking you all for joining us at such short notice this morning. Jim Jaye and I will be around over the balance of the day to answer any additional questions. We also look forward to providing more detail on our fourth-quarter and full-year results and our outlook for 2019 on our regularly scheduled earnings call on January 31.
+In the meantime, thanks for your participation today and thanks for your interest in Sherwin-Williams.
+Operator
+[Operator signoff]
+Duration: 59 minutes
+John Morikis -- President and Chief Executive Officer
+Ian Bennett -- Bank of America Merrill Lynch -- Analyst
+Bob Wells -- Senior Vice President, Corporate Communication
+Al Mistysyn -- Chief Financial Officer
+Arun Viswanathan -- RBC Capital Markets -- Analyst
+Matt DeYoe -- Vertical Research Partners -- Analyst
+Dan Jester -- Citi -- Analyst
+Matt Krueger -- Robert W. Baird & Co. -- Analyst
+John Roberts -- UBS Investment Bank -- Analyst
+Scott Mushkin -- Wolfe Research -- Analyst
+Duffy Fischer -- Barclays -- Analyst
+Vincent Andrews -- Morgan Stanley -- Analyst
+Robert Koort -- Goldman Sachs -- Analyst
+Chuck Cerankosky -- Northcoast Research -- Analyst
+Nishu Sood -- Deutsche Bank -- Analyst
+Wahid Amin -- Buckingham Research -- Analyst
+Mike Sison -- KeyBank Capital Markets -- Analyst
+Rosemarie Morbelli -- G. research -- Analyst
+Truman Patterson -- Wells Fargo -- Analyst
+Eric Bosshard -- Cleveland Research -- Analyst
+Dan Rizzo -- Jefferies -- Analyst
+Harris Fein -- Credit Suisse -- Analyst
+Jeff Zekauskas -- J.P. Morgan -- Analyst
+Justin Speer -- Zelman & Associates -- Analytst
+More SHW analysis
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+
+10 stocks we like better than Sherwin-Williams When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.*
+David and Tom just revealed what they believe are the 10 best stocks for investors to buy right now... and Sherwin-Williams wasn't one of them! That's right -- they think these 10 stocks are even better buys.
+Click here to learn about these picks!
+*Stock Advisor returns as of November 14, 2018
+Motley Fool Transcribing has no position in any of the stocks mentioned. The Motley Fool recommends Sherwin-Williams. The Motley Fool has a disclosure policy.

@@ -1,0 +1,230 @@
+Image source: The Motley Fool.
+First Interstate Bancsystem Inc (NASDAQ:FIBK) Q4 2018 Earnings Conference Call Jan. 31, 2019, 11:00 a.m. ET
+Operator
+Good day, and welcome to the First Interstate BancSystem's Fourth Quarter and 2018 Earnings Conference Call. All participants will be in listen-only mode. (Operator Instructions) After today's presentation, there will be an opportunity to ask questions. (Operator Instructions) Please note this even is being recorded.
+I would now like to turn the conference over to Lisa Slyter-Bray. Please go ahead.
+Lisa Slyter-Bray -- Executive Assistant
+Thanks, Sean. Good morning. Thank you for joining us for our fourth quarter earnings conference call. As we begin, it is worth noting that the information provided during this call will contain forward-looking statements. Actual results or outcomes may differ materially from those expressed by those statements. I'd like to direct all listeners to read the cautionary note regarding forward-looking statements and factors that could affect future results contained in our most recent annual report on Form 10-K filed with the SEC and in our earnings release as well as the risk factors identified in the annual report, and our more recent periodic reports filed with the SEC. Relevant factors that could cause actual results to differ materially from any forward-looking statements are included in the earnings release and in our SEC filings.
+The company does not undertake to update any of the forward-looking statements made today. A copy of our earnings release, which contains non-GAAP financial measures is available on our website at fibk.com. Information regarding our use of the non-GAAP financial measures may be found in the body of the earnings release, and a reconciliation of their most directly comparable GAAP financial measures is included at the end of the earnings release for your reference.
+Joining us from management this morning are Kevin Riley, our Chief Executive Officer and Marcy Mutch, our Chief Financial Officer, along with other members of our management team.
+At this time, I'll turn the call over to Kevin Riley. Kevin?
+Kevin P. Riley -- President and Chief Executive Officer
+Thanks Lisa, and good morning, and thanks again to all of you for joining us on our call today. I'm going to start off today by reviewing our year. And then I'll provide an overview of the major highlights of the quarter and then I'll turn the call over to Marcy Mutch in order to provide some more detail behind our financial numbers.
+2018 was an amazing year for our company. We started the year with a realignment of our executive team. allowing us to provide better clarity around roles and responsibilities. With the executive team in place, we formed a next level leadership, our senior leadership team. It is so gratifying to watch these talented individuals develop and collaborate with one another. The gender diversity is about 50:50 male, female and their age, young talented bankers, the future of banking. This is a leadership team that is helping us understand the entrusted needs of our diverse customer base.
+In an effort to stay relevant, we continue to build out our technology infrastructure, finishing up projects that were started in 2017 and embarking on new ones. This is all in an effort to make us able to compete in this ever-changing world. This year, we continue to enhance our digital app, which is highly regarded and rated 4.7 at the Apple store. We're currently building an online application processes which will start rolling out in the first quarter. All these improvements will either allow our customers to receive our products and services in a manner they're choosing and at a time that is convenient for them or they will deliver needed tools for our staff to do a more effective and efficient job.
+We announced and integrated the acquisition of INB this year and announced the acquisition of Idaho Independent and Community 1st. We had organic growth of around 4% and an operating net interest margin that expanded 32 basis points over 2018, excluding interest accretion and interest recoveries. This occurred even with us paying the highest rates on deposits in our markets. Our credit quality continues to improve and our dividends continue to increase.
+We have spent time and resources to make sure our company is in the position to be successful in this constantly evolving banking industry. We have built a strong management team. We have implemented processes that are efficient, effective and scalable as we grow and we recognize that in order to survive in this digital era, we have to have the technology that suits our clients' needs. We are in the business for the long haul. Our goal is to be the premier regional community bank, who is determined to deliver long-term shareholder value.
+Now on to the fourth quarter. We generated $40.4 million in net income for the fourth quarter or $0.67 per share, which includes $7 million of merger-related expenses which had a negative impact of about $0.09 per share. Our fourth quarter performance reflects how well positioned we are to deliver strong results in this current interest rate environment without reaching for loan growth or taking an unacceptable credit risk. Despite the slight decline in our total loans during the quarter, our net interest income increased more than 8% from the prior quarter. This was primarily due to the higher levels of earning assets and an increase in our net interest margin. Our net interest margin increased another 11 basis points during the quarter, and over the past year, we've seen our margin expand 28 basis points. This reflects the strong benefits we are getting from repricing earning assets as well as effective management of our deposit costs.
+Our loan balances declined a bit from the prior quarter, which is largely attributed to the seasonality in the portfolio like ag and our indirect auto as well as the continued runoff of balances from certain residential real estate and purchase portfolios added in the Cascade acquisition. We also did a little pruning in the portfolio this quarter to exit some low-quality credits from the bank, which also impact our loan growth, but help drive a net decline of $24 million in our criticized loans from the end of the prior quarter. We partially offset these declines with nice growth across our commercial real estate and construction lending portfolios.
+For the full-year, excluding the decline in the two acquired Cascade portfolios, which we intentionally have runoff, our total organic loan growth was approximately 4%, which was lighter than we expected. But we just didn't see enough quality in lending opportunities to meet our targets and we weren't willing to compromise on pricing and structure just to hit the guidance we provided. We're going to maintain our credit standards even if it means we might have a period of low loan growth. So while it's disappointing not to hit the anticipated organic growth targets, we have taken the prudent approach that will serve our shareholders well over the long-term.
+Another takeaway from our experience in 2018 was the difference between our two regions, the Mount division and our West division. For the full- year, our the Mount division produced organic loan growth of approximately 2%, while our West division produced organic loan growth of approximately 8.5%. This illustrates the importance of expanding our presence into the West to enhance our overall growth profile. And with the recent acquisition of INB and the two pending acquisitions in Ohio, Idaho, we are certainly increasing our exposure to high growth markets and putting the bank in a better position to generate more organic growth -- loan growth in the years ahead.
+Looking at our deposit trends, we were down $165 million from the prior quarter with most of that coming from our demand deposit accounts.
+We had about $100 million of deposits that were withdrawn for various transaction and investment opportunities on December 31st by a number of our commercial customers. We continue to have these deposit relationships with and we would expect these balances to rebuild over time. This late quarter outflow masked the otherwise positive trend in deposits as our average balance of non-interest bearing deposits increased $228 million compared to the prior quarter.
+So with those comments, I'd like to turn the call over to Marcy for a little more detail behind the numbers. Go ahead Marcy.
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+Thanks, Kevin, and good morning, everyone. As I walk through our financial results, unless otherwise noted, all of the prior period comparisons will be with the third quarter of 2018 and I'll begin with our income statement.
+As Kevin stated, our net interest income increased 8% from the prior quarter due to higher levels of earning assets and an expanded net interest margin. Included in net interest income this quarter was charged off interest of $700,000, which was the same amount as last quarter. Total accretion income on the acquired portfolios was $4.1 million this quarter, which was $500,000 more than the third quarter. Included in this was accretion related to early pay-off of $1.7 million this quarter, which was $200,000 more than last quarter. Prior to the closing of our two pending acquisitions, we expect scheduled accretion to run at approximately $2 million per quarter.
+On a reported basis, our net interest margin increased 11 basis point to 3.99% in the fourth quarter. Excluding the impact of charged off interest and loan accretion, our operating net interest margin also increased 11 basis points to 3.84%. The expansion in our operating net interest margin was driven by a 14 basis point increase in our yield on earning assets, excluding charged off interest and loan accretion, which was offset by a 3 basis point increase in our cost of funds. The increase in our earning asset yields is being driven by increases in both average loan yields and the yields on our investment securities. With a full quarter impact of the rate increase in September, we saw further benefit from the repricing in our loan portfolio, which drove our average loan yields up 14 basis points to 5.02% on an operating basis.
+The yield in our investment portfolio also increased by 8 basis points in the third quarter to 2.32%. We're putting new money to work in the investment portfolio at over 3% and the duration of the portfolio remains short at about 2.5 years. We continued to stay the course and increase deposit rates with each Fed increase and December was no exception. Even with this move, we expect that our operating net interest margin will stay flat to slightly up.
+Moving to noninterest income, we saw a decrease of $1.9 million quarter-over-quarter to $34.3 million. We experienced the largest decline in our mortgage banking revenue, which was down $1.1 million from the prior quarter. In addition to the seasonal decline in mortgage loan production, we continue to see lower demand for refinancing given the increase in mortgage rates. In the fourth quarter, loans originated for purchase accounted for 83% of our total production, up from 69% in the same period in 2017.
+Looking at our expectations for mortgage banking in 2019, we expect to see a further decline in demand for refinancing, but we expect to offset this as we gain traction with our mortgage offerings in the West division and as we introduced our online mortgage application process. As a result, we think our -- the production -- origination production will be flat to slightly up compared to 2018. And we don't expect to see significant additional compression in the gain on sale margins. As a result, we think our mortgage banking revenue will grow in the low-single digit range this year.
+Moving to total noninterest expense; we incurred $7 million in acquisition-related expenses this quarter. Excluding these expenses, our noninterest expense increased by $4.8 million. This was attributable to the full quarter impact of INB, pre-cost saves and higher incentive compensation accruals as a result of our performance during the year. Heading into this year, as a result of our pending acquisitions, we will have a lot of moving parts around our expense levels and so I want to provide some projections to help you with your modeling.
+As I stated last quarter, our post-integration run rate for INB will add between $5 million to $6 million to our historical run rate. So, with the inclusion of INB, the impact of annual salary increases and the impact from the reset of payroll taxes, we expect our operating expenses to be approximately $92 million for the first quarter prior to the addition of Idaho Independent and Community 1st, which should close early in the second quarter. In the middle of the year, our expenses will be elevated as a result of the Idaho Independent and Community 1st Bank acquisitions, as we will not see the full benefit of cost saves until the third quarter. By the fourth quarter, we expect our expense levels to come out right about $96 million a quarter.
+So for the year, excluding acquisition costs, noninterest expenses should be around 2.73% of total average assets of $13.9 billion. As we've been discussing, we have a lot going around -- going on around operating and technology initiatives this year. We recognize that as we grow, it is critical to keep our expenses in line. As a result, we've made an organizational priority to increase our discipline around expense management, and we believe we will have more success this year in meeting our projections.
+Okay, so moving on. Kevin already addressed our loan and deposit trends, so I'll move to asset quality. We saw positive trends across the portfolio this quarter. Our nonperforming assets decreased $11.2 million, which was due to the effective execution of workout strategies for problem commercial and commercial real estate loans. Our criticized loans decreased $23.6 million, which was driven by both payoffs and the sale of approximately $9 million in lower rated construction and commercial real estate loans. Excluding the loans we added through the INB acquisition, we saw steady declines in our criticized and classified loans throughout 2018.
+Since we implemented changes back in 2017 to improve our credit administration processes, our risk rating system and creating the special assets group, we have been able to more effectively manage our problem loans. These changes have demonstrated themselves to be effective and it positively impacted the quality of the overall portfolio. We had $2.2 million of net charge-offs during the quarter or 10 basis points of average loans on an annualized basis. $1.1 million of our charge-offs were specifically allocated losses within our allowance.
+We recorded $1.6 million in provision expense, which kept our allowance for loan losses at 86 basis points of total loans and increased our coverage of non-performing loans to 126%. And as you know, the allowance does not take acquired loans into consideration, but combining the allowance with remaining loan discount on the acquired portfolios is 1.29% of total loans. With the new measurement of reporting requirements for CECL quickly coming into play for 2020, we are well into the process of building out the requirements that will allow us to meet this timeline.
+During 2018, we had third-party assessments of our data and identified potential gap. We since identified ways to mitigate or solve for those gaps and have a road map to continue enhancements to our data structuring capabilities. We will be leveraging our Oracle platform to support the end-to-end processes, including aggregation of the information, loss modeling and providing the required disclosures for our financial statements. We've identified the models that we'll be using to run the calculations for the various loan portfolio segments and are currently working with a third-party to help us build out our end-to-end processes and loss models to allow parallel runs. We will continue to keep you informed as we work through this process in 2019.
+And then before I wrap up and looking at analyst estimates for this year, there seems to be some confusion around our weighted average share count for 2019, so I'd like to provide some expectations around our quarterly weighted average share count for modeling purposes. In the first quarter, prior to the close of our two pending acquisitions, we expect quarterly average shares outstanding to be approximately 60.8 million shares. In the second quarter, during which we expect to close the acquisitions, we expect the quarterly average shares outstanding to be approximately 66.2 million shares. And in the third quarter with the impact of the new shares issued in the acquisition, we expect the weighted average share count to be 66.3 million shares.
+So with that, I'll turn the call back over to Kevin.
+Kevin P. Riley -- President and Chief Executive Officer
+Thank you, Marcy, and nice job as always. I'm going to wrap up with a few comments about our outlook. We anticipate 2019 to be another year of progress in the evolution of First Interstate from a relatively small community bank to a dynamic regional community bank with a footprint spanning across six states. As always, our focus will be on people, processes and technology. As we increase our presence in fast growing markets and go up against the larger banks, it is critical that we have the technology in place to compete from a customer service standpoint. These improvements will further enhance our community bank model.
+We are particularly excited about this year's roll-out of enhanced digital capabilities. It will start with the delivery of our online mortgage application process as we head into the height of the production cycle. And additionally in 2019, we will introduce online credit card applications and further down the road we will have online small business loan applications and guided wealth management offerings. We will also be making it easier and more efficient for both of our customers and our employees to do business by enabling e-signature and document transmittal through secure email during 2019.
+Collectively, we believe these new digital capabilities will enhance our business development efforts by making it easier for employees at all levels of the organization to assist customers in starting loan applications and finishing them. We also improved our overall banking experience by giving customers a wider choice in how they want to engage with First Interstate and do business with us in a way that they want. Another initiative that we're working on is our loan transformation project that will enhance our speed to market for small business loans. When completed, we will have the standardized process in place for closing and onboarding new clients that quickly and efficiently provide our operations team with the information they need on new loans, so that our frontline folks should spend less time processing paperwork and can spend more time with their clients and prospects.
+And finally, we are making important upgrades in our technology infrastructure that will support our long-term growth to the company. This includes optimizing our core system and building an integration layer that will give us a plug and play IT environment, which will enable us to be faster and more nimble in implementing new technologies in the future. All the investment of these initiatives should be completed by the end of the third quarter, and we will be then in a good position to start realizing all their benefits in 2020. Aside from technology initiatives, our major focus this year will be fully realizing the synergies INB acquisition and completing the acquisition and completing the acquisition and integration of Idaho Independent and Community 1st.
+As I mentioned earlier, the West region is clearly the growth engine of the company and we believe increasing our exposure to high growth markets in Idaho will enhance our overall growth profile of our franchise. We look at the two regions as an excellent complement to our franchise with exceptional value and earnings power. The combination of attractive low-cost deposits in our Mount region and the higher loan growth opportunities in our West region provide us with the ability to continue drive -- driving earnings growth and producing strong returns and creating additional value for our shareholders in the years to come.
+So with that, I'll open the call up for questions.
+Operator
+We will now begin the question-and-answer session. (Operator Instructions) Our first question comes from Jared Shaw with Wells Fargo Securities. Please go ahead.
+Jared Shaw -- Wells Fargo Securities -- Analyst
+Hi, good morning.
+Kevin P. Riley -- President and Chief Executive Officer
+Good morning, Jared.
+Jared Shaw -- Wells Fargo Securities -- Analyst
+Thanks for the details on the share count and the expense stuff. I guess my first question is on the deposits, one with the outflow this quarter, I guess, how long -- you said you'd expect to get those back. Is that something that's going to take two or three quarters or is that two or three months? I guess, what's the timing in terms of you think being able to recover some of those DDAs? And then as a correlator to that, we saw really good low deposit beta this quarter, do you think that that's going to stay with us with the December rate hike into first quarter?
+Kevin P. Riley -- President and Chief Executive Officer
+That was two questions. One, I think the deposit base is going to be a little higher in the first quarter, so we'll get that behind us, but we still think our net interest margin to be flat to slightly up even with that. I would say with regards to deposits, and was shocking to us that they all ran out on the 31st of the month. But normally and seasonally we have deposits that kind of runoff or deteriorate a little bit in the first quarter as we've seen in the prior year, but last year we actually had an increase which was a surprising first quarter. But then what we are going to see is deposits then start flattening out in the second quarter and we normally see our growth cycle in the third and fourth quarter. That's kind of the cycle we have with regards to deposit balances.
+Jared Shaw -- Wells Fargo Securities -- Analyst
+Okay, and that should replicate itself this year with that then?
+Kevin P. Riley -- President and Chief Executive Officer
+Yeah. I would say that, maybe some of the deposit runoff happened one day earlier than normal, but I believe that probably be the same cycle that we see.
+Jared Shaw -- Wells Fargo Securities -- Analyst
+Okay. And then on the fee income side, on the wealth management that has been relatively stable for a while now. Do you think -- what are the opportunities to grow that especially in the newer regions and I guess how should we be expecting to see that trend over the year.
+Kevin P. Riley -- President and Chief Executive Officer
+I'll have Renee Newman answer that, our Chief Banking Officer.
+Renee L. Newman -- Executive Vice President and Chief Banking Officer
+Hi, Jared. Yes, we are continuing to look for ways for our efficiencies and effectiveness to grow our revenues and wealth management space. We are looking to expand in the West, so we've hired a wealth advisor in our Spokane region where we're looking to do so as well in Idaho. So we're wanting to strategically place those individuals in our highest opportunity markets.
+Jared Shaw -- Wells Fargo Securities -- Analyst
+Okay, great. Thank you.
+Operator
+Our next question comes from Jeff Rulis with D.A. Davidson. Please go ahead.
+Jeff Rulis -- D.A. Davidson -- Analyst
+Good morning.
+Kevin P. Riley -- President and Chief Executive Officer
+Good morning, Jeff.
+Jeff Rulis -- D.A. Davidson -- Analyst
+Kevin you mentioned you did some pruning in the portfolio this quarter. I guess could you characterize what you think in 2019 if there are some more heavy lifting to go and maybe if you could touch on kind of a net growth outlook for 2019 on loans. Thanks.
+Kevin P. Riley -- President and Chief Executive Officer
+I'll start with the net growth. We're looking at net growth to be somewhere around mid-single digits. We're coming off the high -- so we believe that with some of things that is going out there the mid-single digit growth is probably what we're going to be seeing next year. With regards to pruning more asset quality issues, I'm going to have our Chief Credit Officer, Stephen Yose to answer that question.
+Stephen W. Yose -- Executive Vice President and Chief Credit Officer
+Yes, we're always looking at opportunities to improve our asset quality. And as you look at what happened this quarter, several of the non-accrual loans and loans that paid off were long-term criticized loans so we have a focus on our special assets group to consistently look at how if they are a nonaccrual, how we exit those relationships, do we have a potential to sell those through and we will continue to do that in 2019. We don't know what's going to happen with the economy. So we hope the criticized loans stay stable. But with the economic ahead of us, I can't say for certain what it will look like this year. Other than, we'll continue to our focused effort on improving asset quality.
+Kevin P. Riley -- President and Chief Executive Officer
+The good news is that, we still have competitors out there willing to take some of these quality assets off our balance sheet. So we hope that continues and they stay healthy during this credit cycle, because once they get full of those type of assets, they probably won't want to take anymore of ours. So--
+Jared Shaw -- Wells Fargo Securities -- Analyst
+Fair enough. The reductions in the NPAs, any color on that as far as what those loans types were and maybe it's a pretty good leg down kind of timing wise. If you could just talk about the reductions out of that bucket, that'd be great.
+Kevin P. Riley -- President and Chief Executive Officer
+Yeah, Steve is going to handle that again.
+Stephen W. Yose -- Executive Vice President and Chief Credit Officer
+They were in the hospitality sector, we had some of hospitality sector as well, some multi-family related to the oil and gas industry. So these were long-term assets that we had been trying to exit that we exited successfully and with minimal loss.
+Jared Shaw -- Wells Fargo Securities -- Analyst
+Great. And one last one, just wanted to confirm the conversion of NBCT is that complete and just an update on are all cost saves baked in at this point?
+Kevin P. Riley -- President and Chief Executive Officer
+Yeah, IB is totally completed, converted and all cost saves now been taken -- are in place.
+Jared Shaw -- Wells Fargo Securities -- Analyst
+Okay, thanks. That's it from me.
+Operator
+Our next question comes from Gordon McGuire with Stephens Incorporated. Please go ahead.
+Gordon McGuire -- Stephens Inc. -- Analyst
+Good morning.
+Kevin P. Riley -- President and Chief Executive Officer
+Good morning, Gordon.
+Gordon McGuire -- Stephens Inc. -- Analyst
+Marcy, I appreciate the color on the expense guidance. I just wanted to confirm that 2.7% expense assets you referenced, that was the full-year number correct? And then just appreciating all the noise with the pending acquisitions, the infrastructure, the digital banking investments you're making, how should we think about that ratio in the 2020 as those investments maybe slow or you start to reap some efficiencies from that?
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+So, that's the 2.37% to average assets was a full-year projection for expenses, excluding acquisition costs, and then we would expect that 2.73% to come down as we head into to 2020. And again, our long-term goal is to get that down closer to 2.65%. So that's the direction that we're headed. We won't get there overnight, but that's where our focus is
+Kevin P. Riley -- President and Chief Executive Officer
+Yeah, in all these investment in technology and process improvements, that's always been baked in our numbers and its we've just opened at the end is coming in the third quarter so that we can start not having to have those expenses in our runway.
+Gordon McGuire -- Stephens Inc. -- Analyst
+Sure. And then Marcy on the mortgage guide, the low-single digit growth there, did that include the acquisitions or was that organic for First Interstate?
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+That includes the acquisitions.
+Gordon McGuire -- Stephens Inc. -- Analyst
+And then the last thing just on the invested liquidity. It looks like the interest bearing deposits are now kind of -- yields are now kind of in parity with the investment portfolio. How are you thinking about liquidity deployment here and has that changed any in recent months?
+Kevin P. Riley -- President and Chief Executive Officer
+Can you ask that question one more time because I didn't follow it and either did Marcy.
+Gordon McGuire -- Stephens Inc. -- Analyst
+Sorry. I'm just looking at the investment portfolio and the yields there versus the interest bearing deposits in your liquidity. It looks like those yields are at parity now. Maybe they interest-bearing deposits are a little ahead of the investment portfolio. And I'm just wondering if there's been any thoughts or changes to your investment strategy going forward?
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+So, you know investment portfolio runs-off about $120 million to $130 million a quarter and we're continuing to invest that. So I would expect the yield in our investments -- securities portfolio on average to come up quicker. And then we are looking at the possibility of moving more of our cash into the investment portfolio.
+Gordon McGuire -- Stephens Inc. -- Analyst
+Okay, great. Thank you, guys.
+Operator
+Our next question comes from Matthew Clark with Piper Jaffray. Please go head.
+Matthew Clark -- Piper Jaffray -- Analyst
+Yeah, good morning.
+Kevin P. Riley -- President and Chief Executive Officer
+Good morning, Matt.
+Matthew Clark -- Piper Jaffray -- Analyst
+Can you give us the weighted average rate on new production this quarter?
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+Yes, it was 5.71%.
+Matthew Clark -- Piper Jaffray -- Analyst
+Okay. And then the $96 million operating expense run rate in the fourth quarter of this year, I assume that includes the Idaho acquisitions. And if so, could you give us the contribution from those two deals in that run rate?
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+Yeah, it does include the Idaho -- the two new pending acquisitions. The run rate during -- yeah, it's between $4 million to $5 million a quarter.
+Matthew Clark -- Piper Jaffray -- Analyst
+So those still in total?
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+After cost saves.
+Kevin P. Riley -- President and Chief Executive Officer
+After cost saves are taken out.
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+Yeah.
+Matthew Clark -- Piper Jaffray -- Analyst
+Okay, great. And then the -- in terms of the deliberate runoff you've done with Cascade, do you have that number for full-year '18? I think it was $71 million year-to-date after the third quarter. Just curious where that stood at the end of the year and whether or not you would face similar headwinds the two Idaho acquisitions or not?
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+So for the full-year it was just a little over $101 million, and for 2019, we expect that to slow down a bit because we are not anticipating today any payoff for this portfolio, although that could happen. But we are looking at around $40 million of run-off from that portfolio this year.
+Matthew Clark -- Piper Jaffray -- Analyst
+Okay. And with the two pending acquisitions, do you see a need you have do that as well?
+Kevin P. Riley -- President and Chief Executive Officer
+No.
+Matthew Clark -- Piper Jaffray -- Analyst
+Okay. And then last one, just any update on the M&A outlook in terms of things that you might want to consider size, geography chatter.
+Kevin P. Riley -- President and Chief Executive Officer
+I would tell you that there's a lot of banks who wanted to be taken out and paid for, but we're being very strategic in what we do in moving this company forward. As we have in the past will continue being disciplined exactly who we partner with going forward just to enhance our franchise. And I would say that again, we'll probably be looking to the Northwest and be building that growth profile as we go forward, but (inaudible) say no a lot, I'll tell you that.
+You probably heard much chatter as we do.
+Matthew Clark -- Piper Jaffray -- Analyst
+Okay. Fair enough. Thanks.
+Operator
+Our next question comes from Jackie Bohlen with KBW. Please go ahead.
+Jackie Bohlen -- KBW -- Analyst
+Hi, good morning.
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+Hi, Jackie.
+Kevin P. Riley -- President and Chief Executive Officer
+Good morning, Jackie.
+Jackie Bohlen -- KBW -- Analyst
+Marcy question on the $13.9 billion you provided for the average assets for 2019 if I understood that correctly. Are you anticipating a slower level of balance sheet growth versus overall loan and deposit growth in 2019?
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+Organically?
+Jackie Bohlen -- KBW -- Analyst
+Yes.
+Kevin P. Riley -- President and Chief Executive Officer
+It will be about the same because we didn't really robust -- we're thinking about the same growth for next year.
+Jackie Bohlen -- KBW -- Analyst
+Okay. And that $13.9 billion number, that is, in average, anticipated for the full year, right?
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+It is with the IIBK and Community 1st acquisitions coming in early in the second quarter.
+Jackie Bohlen -- KBW -- Analyst
+Okay. Thank you. Sorry, go ahead.
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+No. Go ahead.
+Jackie Bohlen -- KBW -- Analyst
+And then with the share count you provided, and thank you for that, just a point of clarity, was that basic or diluted?
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+That was basic.
+Jackie Bohlen -- KBW -- Analyst
+And do you anticipate any major changes to the diluted factor?
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+No.
+Jackie Bohlen -- KBW -- Analyst
+Okay, thank you. And then actually everything else I have has already been asked. Thank you.
+Kevin P. Riley -- President and Chief Executive Officer
+Thanks, Jackie.
+Operator
+(Operator Instructions) Our next question comes from Andrew Liesch with Sandler O'Neill. Please go ahead.
+Andrew Liesch -- Sandler O'Neill -- Analyst
+Good morning, everyone.
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+Good morning, Andrew.
+Kevin P. Riley -- President and Chief Executive Officer
+Good morning, Andrew.
+Andrew Liesch -- Sandler O'Neill -- Analyst
+Yeah. Just one follow-up question around your margin guidance. Now recognizing that deposit betas are going to be a little bit higher this quarter, but you also -- I mean, the loan yields are moving up nicely as well. Why not more optimism around the margin, what is going to cause it to stay near the flatter end of your guidance?
+Kevin P. Riley -- President and Chief Executive Officer
+We just don't know what -- we're increasing our deposit costs up. Again, we're not getting too much pressure on that, but we just -- we always are cautioned in the area around how fast other banks might start raising their deposits, but we feel we're in a good position if we don't get a lot of competition after our rate increases and stuff. And I'd say that margin would be slightly up if we have to combat unreasonable -- I wouldn't say unreasonable pricing, just higher prices that would have -- we'd probably want to meet those.
+Andrew Liesch -- Sandler O'Neill -- Analyst
+Okay. You've covered everything else. Thanks.
+Operator
+At this time, there are no further questions in the question queue. This will conclude our question-and-answer session. I would now like to turn the conference back over to Kevin Riley for any closing remarks.
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+Thank you for your questions. And as always, we welcome calls from our investors and analysts. Please reach out to us if you have any follow-up questions. Thanks for tuning in today, and goodbye.
+Operator
+Thank you for attending today's presentation. The conference has now concluded, and you may now disconnect.
+Duration: 37 minutes
+Lisa Slyter-Bray -- Executive Assistant
+Kevin P. Riley -- President and Chief Executive Officer
+Marcy D. Mutch -- Executive Vice President and Chief Financial Officer
+Jared Shaw -- Wells Fargo Securities -- Analyst
+Renee L. Newman -- Executive Vice President and Chief Banking Officer
+Jeff Rulis -- D.A. Davidson -- Analyst
+Stephen W. Yose -- Executive Vice President and Chief Credit Officer
+Gordon McGuire -- Stephens Inc. -- Analyst
+Matthew Clark -- Piper Jaffray -- Analyst
+Jackie Bohlen -- KBW -- Analyst
+Andrew Liesch -- Sandler O'Neill -- Analyst
+More FIBK analysis
+Transcript powered by AlphaStreet
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+
+Motley Fool Transcribers has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.

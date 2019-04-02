@@ -1,0 +1,188 @@
+Image source: The Motley Fool.
+Old Second Bancorp Inc (NASDAQ:OSBC) Q4 2018 Earnings Conference Call Jan. 24, 2019, 11:00 a.m. ET
+Operator
+Good morning everyone and thank you for joining us today for Old Second Bancorp's Fourth Quarter 2018 Earnings Conference Call. On the call today is Jim Eccher, CEO and President, and the Company's CFO, Brad Adams. I will start with a reminder that Old Second's comments today may contain forward-looking statements about the Company's business, strategies and prospects, which are based on management's existing expectations in the current economic environment. These statements are not a guarantee of future performance and results may differ materially from those projected. Management would ask you to refer to the Company's SEC filings for a full discussion of the Company's risk factors.
+On today's call, we will also be discussing certain non-GAAP financial measures. These non-GAAP measures are described and reconciled in their GAAP counterparts in our earnings press release, which is available on our Company's website at oldsecond.com under the Investor Relations tab. Now I will turn it over to Jim Eccher.
+James L. Eccher -- President & Chief Executive Officer
+Good morning and thank you for joining us. I have several prepared opening remarks and will give you my overview of the quarter and then turn it over to Brad for more detail on fourth quarter performance. I will then wrap up with some summary comments and thoughts about the future, before we open it up for questions.
+Results and overall momentum continued to be very strong. Net income was $8.6 million or $0.28 per diluted share in the quarter. Earnings this quarter were negatively impacted by approximately $700,000 of mortgage servicing right interest rate impairment and $100,000 of merger-related expenses pre-tax. Absent these charges, earning trends were overall very strong with notable increases in the net interest margin and acceleration of loan growth from recent periods.Results continue to be very positive overall with an expanding core margin, solid expense control, sustained performance across our fee-based businesses and a stable credit outlook. 2018 was a very good year for our Company with strong earnings momentum and the ability to invest significantly in the future growth of the Bank.
+In regards to the fourth quarter, specifically, total loans increased by $62 million relative to last quarter with pipelines remaining above historical norms heading into the new year. Strong loan originations exceeded our expectations in what is normally a softer quarter. The competition for credit in our market remains more aggressive than we expected, both in terms of pricing and structure. With the tailwinds provided by an expanding margin, we are in a strong position and expect to remain very selective on the credit side. Yields on the portfolio increased nicely during the quarter.
+Total deposits decreased modestly from last quarter, albeit with solid overall repricing trends. The loan-to-deposit ratio is now at 89% and I believe we can remain at these levels in the near term with loan growth funded by a mix of deposit growth and run-off within the securities portfolio. Asset quality remains very well controlled, the level of classifieds did tick modestly higher relative to last quarter and our overall positive credit outlook remains unchanged.
+Overall, we remain very encouraged about our results in a number of areas and I'll turn it over to Brad to give you more color in his prepared comments.
+Bradley S. Adams -- Chief Financial Officer
+Thank you, Jim. Net interest income was up significantly due to increases in loan yields across the variable portfolios. Some of you may have noticed the income was a little softer due to mortgage -- difficult mortgage banking environment, specifically the large MSR impairment related to the backup in interest rates during the quarter, as backup in rates also had us -- an impact, just under $300,000 or so on recognized revenue related to a BOLI position.
+The reported taxable equivalent margin increased by 7 basis points from last quarter, similar level on the core margin. Core margin, exclusive of purchase accounting trends, remains very strong in trend. Pricing movement on the liability side of the balance sheet remains well controlled, albeit with a pickup in time deposit competition continuing. As discussed last quarter, this trend did result in some modest increases in funding cost.
+We have moved rates modestly higher in checking, money market and savings captions in response to recent rate hikes with the goal of remaining within reasonable proximity to the median pricing in our markets. Overall, deposit betas continue to significantly outperform our expectations, as they have for much of the last year. We continue to be very pleased with our outlook for loan and margin trends going forward. The loan-to-deposit ratio leaves us well positioned for higher rates, albeit with an increased 89% this quarter. At this level, though, we have ample flexibility both to continue pursuit of quality loan growth and doing the right thing for our customers to protect the core deposit base.
+As Jim mentioned, it is likely we will seek to optimize earning asset mix and fund future loan growth at the expense of the securities portfolio going forward, probably expect to move out of variable rate positions within that portfolio as well.
+Looking forward, core margin trends continue to be biased modestly higher. However, the degree of that expansion will be more modest in recent periods. Old Second is not assuming any additional rate increases in the Fed fund rate during 2019. That's been the case for a while now actually. It remains true that the bulk of our deposit pricing pressure is isolated -- the bulk of deposit pricing pressure in the market, in general, is isolated in larger balance deposit relationships to which our exposure is extremely limited relative to competitors.
+On the fee income side, wealth management and trust income continues to perform above our budgeted expectations and had a very nice year in 2018. Mortgage banking experienced a very difficult quarter, also showing up in the decline in gain on sale margins. Overall, the level of refinance activity was very poor during the quarter, among the worst quarters we have seen in the mortgage business for us in some time.
+Expenses, however, remain extremely well controlled. There's not a lot to talk about here, the efficiency ratio improved further and is now comfortably below 60%. The net contribution of purchase accounting to our income statement decreased by roughly a $0.01 per share from last quarter due to the OREO benefit in Q3. Investments for future growth are largely baked into the run rate trends you have been seeing for us. Continuing a trend since I got here, the effective tax rate was completely unpredictable based on my statements and I remain largely out of the forecasting business in regards to the tax rate on a quarterly basis going forward.
+With that, I will turn the call back over to Jim.
+James L. Eccher -- President & Chief Executive Officer
+Okay. Thanks, Brad. In closing, there was a lot to like about the quarter. We're very encouraged about how we closed the year and we are pleased with where the Company is heading. On an organic basis, operating leverage remains strong, with solid growth across business units and well controlled expenses. Returns on tangible equity are excellent, in the mid-to-high teens on a core basis and the interest rate environment provides an opportunity for our Company to demonstrate its strength for the first time in a long time.
+We remain well positioned. Credit remains well controlled. We continue to invest in new talent and look for opportunities to further diversify our loan portfolio. We are comfortable with current capital levels, given the strength of our recent earnings performance and the speed at which we are rebuilding capital. We continue to be on the lookout for acquisition opportunities that meet our return thresholds and are optimistic about those opportunities, and feel we can realize those in the coming quarters.
+And that concludes our prepared comments this morning. So, I'll turn it over to the moderator, and we can open it up to questions.
+Operator
+Great, thank you. (Operator Instructions) Our first question is from Chris McGratty from Keefe, Bruyette, & Woods. Please go ahead.
+Chris McGratty -- Keefe, Bruyette, & Woods -- Analyst
+Hey, good morning. Jim, maybe on -- or Brad, on growth, given the message it appears to be in remix. This quarter was strong. You did buy a portfolio in the quarter. How sure -- and you commented about pipeline being higher. How should we be thinking about kind of net loan growth for -- for 2019? I mean, my guess is earning assets will be a few hundred basis points inside of that. Thanks.
+James L. Eccher -- President & Chief Executive Officer
+Yes, we were pleasantly surprised about the quarter. We had a pipeline that was building, Chris, and a lot of closings that happened in the quarter. Fourth quarter and first quarter are traditionally softer for us, but we feel mid-single digit growth again in 2019 is achievable and that's our target.
+Chris McGratty -- Keefe, Bruyette, & Woods -- Analyst
+Okay. In terms of the margin, Brad, one of your larger competitors actually spoke yesterday about moderating competition of deposits. I'm wondering, number one, do you share that same view? And could you also help us with kind of the margin outlook a little bit more? It seems like up, but not nearly to the same degree.
+Bradley S. Adams -- Chief Financial Officer
+So, I would say from the period of June util about mid-December, late December, there was a very interesting dynamic in our market, whereby people were putting both teaser rates and time deposit rates that were anywhere between 12 basis points and 25 basis points above the Fed funds curve. The Fed funds curve being based at the short end, that is. So, they were looking to capture some portion of expected movement in rates. At the end of the quarter that was very far ahead of itself, as expectations for Fed moves change pretty quickly. And that has since backed off. So I think that's probably the genesis of those comments and deposit pricings on time deposits within the 12-month to 18-month time frame have come down.
+So I think those that rely on that portion are probably relieved. For us, our strategy has largely been just to tread water within the time deposit portfolio. So, it's not a big delta for us. I think we still got some benefit to roll through relative to the December rate hike and I think that's what you'll see from us in the first quarter, maybe bleeding into the second. From there, my bias is to add a little bit of duration to the balance sheet and focus on operating leverage and growth going forward.
+Loan growth feels better than it did, say, six months ago. And the fee income streams feel better as well, absent what happens when you have a 40 basis point move in the 10-year in a period of a couple weeks right at the end of the quarter, which have nothing whatsoever to do with our operating trends. So, if I had to guess, I'd say we probably got another 8 basis points on us on the margin expansion, absent no other changes in rates, which obviously isn't going to happen. So, nobody can ever say you were wrong, dummy.
+Chris McGratty -- Keefe, Bruyette, & Woods -- Analyst
+Got it. Maybe I could just sneak one in, Jim, on deals. It sounded like some optimism on M&A. Given the volatility that's occurred in the markets, has that at all begun to work more on the buyers favor, such as yourself, where potential partners you're talking to may accelerate, wanted to get out before the economy becomes a little bit more of a question mark?
+James L. Eccher -- President & Chief Executive Officer
+Yeah, I think that's a good point, Chris. Our conversations were very constructive into the -- in the second and third quarter last year. With the downturn in the markets in the fourth quarter, things got a little more quiet, but I think you're right, we expect conversations to pick up over the next couple of quarters and I think there is a general feeling that -- to look for potential partners before the next economic downturn. I think those are real concerns I think banks are having around the board table.
+Chris McGratty -- Keefe, Bruyette, & Woods -- Analyst
+Got it. Thank you.
+Operator
+Our next question is from Kevin Reevey from D.A. Davidson. Please go ahead.
+Kevin Reevey -- D.A. Davidson & Co -- Analyst
+Good morning.
+James L. Eccher -- President & Chief Executive Officer
+Good morning Kevin.
+Kevin Reevey -- D.A. Davidson & Co -- Analyst
+So my question is around the mortgage business. First part of the question is, how should we think about that business going into the first quarter of this year? And then if rates continue to rise, kind of how should we think about that on a full year basis relative to 2018? And then assuming that that business continues to soften, what are your long-term plans? Do you intend to rightsize that business? Do you intend to scale it up?
+Bradley S. Adams -- Chief Financial Officer
+So let me first off say that of all the places I've worked and some of you know I've worked in a lot, the mortgage business at Old Second is absolutely the perfect size and the most profitable mortgage banking business I've ever seen in a community bank. It is extremely well managed. What you saw in the fourth quarter was purely a function of the movement of rates at the very end of the quarter and our profitability metrics within mortgage are basically twice as good as anywhere else I've ever worked.
+Now absent a further collapse in the 5 to 10-year portion of the treasury curve, our mortgage business banking -- mortgage banking business should perform extremely well in 2019. The backup in rates is obviously good for volumes. it's just the speed of the rate move was far in excess of the ability to turn on a dime in terms of what the pipelines were doing. So, I would love to grow our mortgage banking business, given if I could maintain the profitability metrics that we historically have done and that includes my relatively short time here.
+However, that's difficult, given where we are on expense margins relative to revenue. It's hard to grow and maintain those margins. I would rather it stays the size it is, and we can expect probably 3% to 5% growth in that business, even if the world remains such as it is now, which is relatively uncertain. So, those of you that know me, know that I don't often say this, but I am bullish on our mortgage banking trends in 2019, especially relative to what the fourth quarter performance was. Did I answer your question?
+Kevin Reevey -- D.A. Davidson & Co -- Analyst
+Nope. That was exactly what I was looking for. And then lastly, I know healthcare lending is an area that you talked about last quarter as an area of focus. Can you talk about what opportunities you're seeing on the C&I and CRE side there?
+James L. Eccher -- President & Chief Executive Officer
+Sure, Kevin. So -- yes, last quarter was very good. We had about $62 million in growth, a third of that was purchase of a HELOC -- a pretty diversified HELOC portfolio. Two-thirds of that was organic growth, split evenly between CRE, C&I and within that C&I bucket, a reasonable concentration was in healthcare and in leasing, which we are beginning to wrap up that vertical, and expect that to outperform in 2019. So we're pretty happy with the diversification in the portfolio.
+Kevin Reevey -- D.A. Davidson & Co -- Analyst
+Great, thank you.
+Operator
+Our next question is from Andrew Liesch from Sandler O'Neill. Please go ahead.
+Andrew Liesch -- Sandler O'Neill -- Analyst
+Good morning, guys.
+James L. Eccher -- President & Chief Executive Officer
+Good morning, Andrew.
+Andrew Liesch -- Sandler O'Neill -- Analyst
+You've covered most of my questions, but just on the expense run rate here, I know accruals can bounce around quite a bit. But what's a good number to use going into the first quarter for total expenses? And then presumably that might tail off a little bit as bonus accruals and other seasonal expenses decline as the year goes on.
+Bradley S. Adams -- Chief Financial Officer
+So you'll have some seasonal benefits and some seasonal headwinds, specifically the return of FICA, to some degree, in the first quarter. I think first quarter trends you're likely to see something that's relatively flat, overall. I think for full year '19, I think that we can probably be in the 3% range in terms of all-in expenses, maybe leaking toward 4% if the growth environment is strong as we currently expect. Will be some flexibility (inaudible) there if the growth environment is poor.
+I think our business -- overall, I'd classify that our business fundamentals trends are extremely bullish and our overall macro outlook is somewhat cautious. And so, we are not barging headlong into anything, but it sure is nice to be having the operating position that we're in right now. It makes our job relatively easy and the decisions are fun to make.
+Andrew Liesch -- Sandler O'Neill -- Analyst
+Got you. And then, just given some of the M&A activity that's taken place in Chicago, do you have any additional hiring plans or any dislocation that might be coming out of at least one large well-known deal?
+Bradley S. Adams -- Chief Financial Officer
+We are always on the lookout for -- to upgrade talent, we'll say that.
+Andrew Liesch -- Sandler O'Neill -- Analyst
+Okay, that covers my questions. Thanks.
+Bradley S. Adams -- Chief Financial Officer
+Thank you, Andrew.
+Operator
+Our next question is from Brian Martin from FIG Partners. Please go ahead.
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Hey, guys.
+Bradley S. Adams -- Chief Financial Officer
+Hi Brian.
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Hey, I just -- Jim, you talked about the pipelines maybe still being a little bit stronger even after this quarter, just kind of wonder what's driving that pipeline, kind of where you're seeing the strength in that pipeline today, given especially since first quarter is typically kind of a softer quarter as well, as you noted?
+James L. Eccher -- President & Chief Executive Officer
+Yeah, interestingly, last year our originations were pretty similar to 2017. However, our paydowns and payoffs were 2x what they were in 2016 and 2017. So if we get a normalization in paydowns and payoffs in '19, which I think we will, I think we can start to see more reasonable organic growth. So I still think mid-single digits is a healthy growth rate. We are seeing a lot of activity in Chicago and some new talent that we've brought in over the last year that is starting to gain some traction.
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Okay. So the payoffs were still strong this quarter, is still on the higher side?
+James L. Eccher -- President & Chief Executive Officer
+Well, they were strong through the first three quarters and they abated a little bit.
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Yeah.
+James L. Eccher -- President & Chief Executive Officer
+They were 2x when they were (multiple speakers).
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Full year? Okay. I got you. Okay. And then, Brad, you talked about just a remix on the -- as you fund the loan growth. Can you talk about the sizing of the bond portfolio, kind of where you -- how you see that playing out as you fund the loan growth, just kind of what you're seeing there?
+Bradley S. Adams -- Chief Financial Officer
+I don't expect any significant changes. I think it's possible, if deposit growth isn't what we wanted to be that you can see a bleed down of $10 million to $20 million per quarter.
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Okay. On that side of it. Okay. And then do you expect on the -- Just on the loan side, I know you did a couple portfolio purchases last year, in '18. Any more that you -- I guess you're still thinking about doing more, I guess given you feel -- sounds like you feel a little bit better about organic loan growth?
+Bradley S. Adams -- Chief Financial Officer
+I am hopeful that the paydowns are less this year and the portfolio purchases are necessary. That being said, our consumer loan production capability is below what I'd like relative to the contribution on the balance sheet. So, to maintain a diversified portfolio that's really the reason for consumer loan purchases in our relatively recent past. If we need to maintain a balance sheet mix that does have some consumer exposure, we may need to fill there, but I would expect our appetite would be a bit less in '19.
+James L. Eccher -- President & Chief Executive Officer
+And the other thing I would add, Brian, is our leasing division and healthcare group are relatively new groups and we've made some meaningful investments in those verticals. So we're optimistic that we'll see some growth in those areas without the headwinds of run-off, because those portfolios are so new.
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Okay, that's helpful. And just going back to the margin for one minute. I think you said it was 6 basis points or 8 basis points is kind of how you're thinking about things have progressed, Brad. I mean, can you just talk about -- I mean is -- do you get more pickup early on in the first quarter from the December rate hike and then it's kind of more stable, I guess as the year goes on? I guess just especially if you're not forecasting if the Fed is on pause, I guess how does the dynamics play out in the margin as you see it today?
+Bradley S. Adams -- Chief Financial Officer
+I think that you're right. The bias is toward early in the quarter for additional margin expansion. And January, thus far, certainly looks very positive. I think that loan growth plays a factor and earning asset mix plays a factor in the periods to follow.
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+I got you. Okay. And then just last one from me. Just on operating leverage, as you guys look at '19, I guess the expectation is you can still see some positive operating leverage as you look full year '19 versus '18?
+Bradley S. Adams -- Chief Financial Officer
+Absolutely.
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Yes, OK. I appreciate the color, guys. Thanks, nice quarter.
+Bradley S. Adams -- Chief Financial Officer
+Thank you very much.
+James L. Eccher -- President & Chief Executive Officer
+Thank you.
+Operator
+Our next question is from Eric Hooper, private investor. Please go ahead.
+Eric Hooper -- -- Analyst
+Hi, good morning, Jim. Just a couple of things. You've mentioned a comment about some classifieds ticking up, is there anything notable in there? And then on the loan growth side, excluding the home equity, you mentioned healthcare and I think leasing. Is there anything you're doing in terms of originations, in terms of larger credits, maybe any of the risk appetite change with regard to that? That was it for me.
+James L. Eccher -- President & Chief Executive Officer
+Sure, Eric. First, I guess on classified, we had an uptick of just over $4 million, that's largely the result of two credits; one, which was just shy of $4 million was a multi-tenanted office building that lost a couple of tenants. We've had that on our radar. We've had it classified and reserved for, we took it to non-performing in the quarter.
+The guarantor continues to support it, it's current, but we thought it was prudent to take it -- to take that classification. The other credit was about $700,000 or $800,000 that was in the process of foreclosure. But we've -- since the end of the quarter, we've received a pay-off on that loan already. So we're optimistic we'll be able to move that off the books.
+As far as loan growth, we continue to be pretty disciplined about the size and granularity at what we're looking to put on the books. We have not really engaged in doing large club deals or syndications or significant participations. It's fairly diversified, fairly granular, really focused more in our core markets.
+Eric Hooper -- -- Analyst
+Okay, thanks very much.
+James L. Eccher -- President & Chief Executive Officer
+Thank you.
+Operator
+Our next question is from Chris McGratty from Keefe, Bruyette & Woods. Please go ahead.
+Chris McGratty -- Keefe, Bruyette, & Woods -- Analyst
+Yeah, thanks. Brad, on the accretable outlook, can you help us what's kind of the budget for accretion income for this year?
+Bradley S. Adams -- Chief Financial Officer
+Should be -- I would say the next three quarters would be roughly about $100,000 less than what you saw this quarter.
+Chris McGratty -- Keefe, Bruyette, & Woods -- Analyst
+Okay. And then I'm going to make you guess on the tax rate please.
+Bradley S. Adams -- Chief Financial Officer
+Don't do that. Nobody wants to hear that from me.
+Chris McGratty -- Keefe, Bruyette, & Woods -- Analyst
+No dice?
+Bradley S. Adams -- Chief Financial Officer
+No dice.
+Chris McGratty -- Keefe, Bruyette, & Woods -- Analyst
+All right. Thanks for nothing. Bye.
+Bradley S. Adams -- Chief Financial Officer
+See you man.
+Operator
+And our next question is from Brian Martin from FIG Partners. Please go ahead.
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Hey. I wasn't going to ask the tax question, Brad. So just on M&A, I guess one follow-up was the -- it sounds like, Jim, you said that it was pretty active in second and third quarter and I guess, would you see -- I guess you did see -- you have seen a slowdown and is that slowdown, at least in discussions, is that continuing, or do you think you're seeing a pickup in discussions now? I guess I was unclear on what you're saying you're seeing today?
+James L. Eccher -- President & Chief Executive Officer
+Yeah, I think the market -- obviously the market pullback has created a time to retrench for everybody and certainly there's been a valuation reset that we've seen and I think everyone has seen. So that coupled with the holidays, I think, things were pretty quiet in the quarter, but we expect things to pick back up in the coming quarters.
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Okay.
+James L. Eccher -- President & Chief Executive Officer
+I think when you see a movement in valuations in our industry that goes from what had been 15 times earnings to 10, something changed and I would say that when valuations are going up, sellers adjust their expectations very quickly and the opposite is true in the other direction.
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Yeah, OK. And can you just remind me, when you guys think about M&A, I guess is there kind of -- I guess when you look at kind of the size, size of a deal you guys would -- kind of the optimal size deal or kind of where -- what range -- if you put a fence around, what you guys are looking at? I mean is it more on the smaller side, larger, I guess, any context on that? And that was it.
+Bradley S. Adams -- Chief Financial Officer
+Something large from us is unlikely, something $300 million to $800 million to $1 billion is certainly possible. Our focus is on core deposit quality.
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Got you. Okay, thanks Brad.
+Bradley S. Adams -- Chief Financial Officer
+Yeah.
+Operator
+Great, thank you. This concludes the question-and-answer session, and I like to turn the floor back to management for any closing comments.
+James L. Eccher -- President & Chief Executive Officer
+Okay, thank you for your interest in the Company and for joining us this morning and we look forward to speaking with you again next quarter. Goodbye.
+Operator
+This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation.
+Duration: 29 minutes
+James L. Eccher -- President & Chief Executive Officer
+Bradley S. Adams -- Chief Financial Officer
+Chris McGratty -- Keefe, Bruyette, & Woods -- Analyst
+Kevin Reevey -- D.A. Davidson & Co -- Analyst
+Andrew Liesch -- Sandler O'Neill -- Analyst
+Brian Joseph Martin -- FIG Partners, LLC -- Analyst
+Eric Hooper -- -- Analyst
+More OSBC analysis
+Transcript powered by AlphaStreet
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.
+
+Motley Fool Transcribers has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy.
